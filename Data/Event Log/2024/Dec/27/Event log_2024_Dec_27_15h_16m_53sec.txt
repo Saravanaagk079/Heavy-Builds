@@ -1,0 +1,8 @@
+Event log	15_17_08.127	Connect RT	
+Event log	15_17_20.571	START DAQ	
+Event log	15_19_27.731	START LOG	
+Event log	15_20_28.405	DAQ SETTING	
+Event log	15_56_50.153	DAQ SETTING	
+Event log	16_01_12.005	STOP LOG	
+Event log	16_01_14.253	STOP DAQ	
+Event log	16_01_17.873	Connect RT	

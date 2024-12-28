@@ -1,0 +1,6 @@
+Event log	12_49_09.239	Connect RT	
+Event log	12_49_10.619	START DAQ	
+Event log	12_49_44.297	START LOG	
+Event log	12_49_52.271	Set	
+Event log	12_50_02.984	Get Sequence 	
+Event log	12_50_08.746	Start or Revert Sequence	

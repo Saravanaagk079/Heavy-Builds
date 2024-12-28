@@ -1,0 +1,9 @@
+Event log	22_02_53.063	Connect RT	
+Event log	22_03_00.258	START DAQ	
+Event log	22_03_08.837	START LOG	
+Event log	22_03_17.005	STOP LOG	
+Event log	22_04_01.095	DAQ SETTING	
+Event log	22_08_16.994	START LOG	
+Event log	22_08_19.705	STOP LOG	
+Event log	22_10_32.570	STOP DAQ	
+Event log	22_10_33.845	Connect RT	

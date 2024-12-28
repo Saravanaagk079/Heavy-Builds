@@ -1,0 +1,6 @@
+Event log	16_26_56.349	Connect RT	
+Event log	16_26_58.659	START DAQ	
+Event log	16_30_19.678	START LOG	
+Event log	16_34_19.392	STOP LOG	
+Event log	16_34_20.330	STOP DAQ	
+Event log	16_34_21.791	RT Stop	

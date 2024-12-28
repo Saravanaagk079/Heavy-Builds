@@ -1,0 +1,34 @@
+Event log	18_34_16.080	Connect RT	
+Event log	18_34_17.695	START DAQ	
+Event log	18_34_17.906	Gate driver ATF	
+Event log	18_34_17.917	Gate driver- LOX	
+Event log	18_34_18.018	Gate driver ATF	
+Event log	18_34_18.022	Gate driver- LOX	
+Event log	18_34_18.123	Gate driver ATF	
+Event log	18_34_18.125	Gate driver- LOX	
+Event log	18_34_18.225	Gate driver ATF	
+Event log	18_34_18.226	Gate driver- LOX	
+Event log	18_34_18.328	Gate driver ATF	
+Event log	18_34_18.329	Gate driver- LOX	
+Event log	18_34_18.433	Gate driver ATF	
+Event log	18_34_18.435	Gate driver- LOX	
+Event log	18_34_18.536	Gate driver ATF	
+Event log	18_34_18.537	Gate driver- LOX	
+Event log	18_34_18.637	Gate driver ATF	
+Event log	18_34_18.639	Gate driver- LOX	
+Event log	18_34_18.739	Gate driver ATF	
+Event log	18_34_18.740	Gate driver- LOX	
+Event log	18_34_18.844	Gate driver ATF	
+Event log	18_34_18.845	Gate driver- LOX	
+Event log	18_34_18.949	Gate driver ATF	
+Event log	18_34_18.984	START LOG	
+Event log	18_34_18.986	Gate driver- LOX	
+Event log	18_34_19.086	Gate driver ATF	
+Event log	18_34_19.087	Gate driver- LOX	
+Event log	18_34_19.191	Gate driver ATF	
+Event log	18_34_19.192	Gate driver- LOX	
+Event log	18_34_19.291	Gate driver ATF	
+Event log	18_34_19.292	Gate driver- LOX	
+Event log	18_34_19.394	Gate driver ATF	
+Event log	18_34_19.396	Gate driver- LOX	
+Event log	18_34_19.498	Gate driver ATF	

@@ -1,0 +1,12 @@
+Event log	13_23_08.369	Log option	
+Event log	13_23_12.788	Enable/Disable IP	
+Event log	13_23_21.183	IP ADDRESS	
+Event log	13_23_21.197	Enable/Disable IP	
+Event log	13_23_22.731	Connect RT	
+Event log	13_23_25.033	START DAQ	
+Event log	13_25_08.071	START LOG	
+Event log	13_25_11.186	C_EPV_78	
+Event log	13_25_16.817	C_EPV_78	
+Event log	13_25_19.322	STOP LOG	
+Event log	13_25_35.296	STOP DAQ	
+Event log	13_25_37.064	RT Stop	

@@ -1,0 +1,80 @@
+Event log	04_22_30.811	Connect RT	
+Event log	04_22_32.739	START DAQ	
+Event log	04_26_23.954	Spark plug	
+Event log	04_26_33.476	Spark plug	
+Event log	04_27_05.387	START LOG	
+Event log	04_27_10.692	Spark plug	
+Event log	04_27_24.661	Spark plug	
+Event log	04_27_42.537	Spark plug	
+Event log	04_27_51.721	Spark plug	
+Event log	04_28_16.109	STOP LOG	
+Event log	04_34_10.584	N_EPV_128	
+Event log	04_37_11.802	N_EPV_125	
+Event log	04_37_33.231	N_EPV_190	
+Event log	04_46_35.736	W_EPV_313	
+Event log	04_47_10.775	W_EPV_313	
+Event log	04_48_35.019	START LOG	
+Event log	04_48_49.456	W_EPV_313	
+Event log	04_54_07.762	W_EPV_313	
+Event log	04_54_14.071	STOP LOG	
+Event log	04_55_36.897	START LOG	
+Event log	04_56_02.742	STOP LOG	
+Event log	04_56_07.626	Log option	
+Event log	04_56_09.577	START LOG	
+Event log	05_10_10.938	N_EPV_128	
+Event log	05_10_21.073	N_EPV_125	
+Event log	05_10_31.728	N_EPV_190	
+Event log	05_13_30.443	STOP LOG	
+Event log	05_31_35.142	N_EPV_185	
+Event log	05_31_46.916	N_EPV_138	
+Event log	05_32_24.888	N_EPV_138	
+Event log	05_32_30.251	N_EPV_138	
+Event log	05_33_13.518	N_EPV_138	
+Event log	05_38_22.499	N_EPV_128	
+Event log	05_38_37.507	N_EPV_128	
+Event log	05_42_01.876	DAQ SETTING	
+Event log	05_46_17.599	N_EPV_128	
+Event log	05_46_22.926	N_EPV_128	
+Event log	05_47_10.722	N_EPV_190	
+Event log	05_47_47.190	N_EPV_190	
+Event log	05_47_52.392	N_EPV_190	
+Event log	05_47_59.473	N_EPV_190	
+Event log	05_53_13.055	N_EPV_138	
+Event log	06_04_49.439	START LOG	
+Event log	06_14_32.752	STOP LOG	
+Event log	06_19_40.193	M_EPV_90	
+Event log	06_20_08.964	M_EPV_90	
+Event log	06_25_19.488	START LOG	
+Event log	06_25_34.269	G_EPV_70	
+Event log	06_26_07.437	G_EPV_70	
+Event log	06_26_27.024	DAQ SETTING	
+Event log	06_27_19.273	M_EPV_90	
+Event log	06_27_50.048	M_EPV_90	
+Event log	06_36_08.667	STOP LOG	
+Event log	06_44_46.109	DAQ SETTING	
+Event log	06_54_16.770	START LOG	
+Event log	06_54_25.799	G_EPV_70	
+Event log	06_54_51.360	G_EPV_70	
+Event log	06_55_54.983	STOP LOG	
+Event log	07_37_25.508	DAQ SETTING	
+Event log	07_42_07.752	DAQ SETTING	
+Event log	07_49_38.330	START LOG	
+Event log	07_56_30.705	STOP LOG	
+Event log	07_57_20.709	N_EPV_138	
+Event log	07_57_38.097	START LOG	
+Event log	07_58_53.798	N_EPV_138	
+Event log	07_59_24.096	N_EPV_138	
+Event log	08_02_22.559	N_EPV_138	
+Event log	08_03_28.151	STOP LOG	
+Event log	08_18_18.893	START LOG	
+Event log	08_18_24.278	N_EPV_185	
+Event log	08_18_54.871	N_EPV_185	
+Event log	08_20_41.036	STOP LOG	
+Event log	08_21_46.688	N_EPV_185	
+Event log	08_23_13.388	N_EPV_138	
+Event log	08_23_33.330	Safe State	
+Event log	08_23_41.526	Safe State	
+Event log	08_23_52.177	Safe State	
+Event log	08_23_53.699	Safe State	
+Event log	08_25_15.157	STOP DAQ	
+Event log	08_25_20.941	Connect RT	

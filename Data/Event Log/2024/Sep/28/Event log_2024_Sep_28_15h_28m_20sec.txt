@@ -1,0 +1,16 @@
+Event log	15_28_38.592	Connect RT	
+Event log	15_28_40.175	START DAQ	
+Event log	15_28_42.399	START LOG	
+Event log	15_33_45.752	STOP LOG	
+Event log	15_33_49.269	STOP DAQ	
+Event log	15_34_16.396	START DAQ	
+Event log	15_35_48.486	STOP DAQ	
+Event log	15_35_52.819	START DAQ	
+Event log	15_36_53.977	START LOG	
+Event log	15_37_17.121	STOP LOG	
+Event log	15_37_29.517	STOP DAQ	
+Event log	15_37_30.809	START DAQ	
+Event log	15_38_01.226	START LOG	
+Event log	15_41_08.984	STOP LOG	
+Event log	15_41_11.895	STOP DAQ	
+Event log	15_41_13.644	RT Stop	

@@ -1,0 +1,15 @@
+Event log	18_01_03.590	Pre readiness file	
+Event log	18_01_04.946	sequence readiness	
+Event log	18_01_12.258	N_EPV_125	
+Event log	18_01_13.843	sequence readiness	
+Event log	18_01_22.585	N_EPV_185	
+Event log	18_09_30.199	sequence readiness	
+Event log	18_09_34.615	N_EPV_138	
+Event log	18_09_36.031	sequence readiness	
+Event log	18_09_40.784	Refresh	
+Event log	18_09_41.671	sequence readiness	
+Event log	18_09_44.620	Get Sequence 	
+Event log	18_09_57.708	Refresh	
+Event log	18_09_59.214	sequence readiness	
+Event log	18_10_01.425	Get Sequence 	
+Event log	18_15_34.839	Get Sequence 	

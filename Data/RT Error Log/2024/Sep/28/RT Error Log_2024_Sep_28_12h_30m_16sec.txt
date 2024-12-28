@@ -1,0 +1,9 @@
+RT Error	12_55_39.593	-314106	Error -314106 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	12_55_39.594	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	12_55_39.612	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	12_55_39.623		
+RT Error	12_55_41.674	-209808	Error -209808 Occurred at  DAQmx Start Task.vi:7220002<append>
+<B>Channel Name: </B>_PXI1Slot9/_cjtemp
+
+<B>Task Name: </B>TC
+RT Error	12_55_41.683		

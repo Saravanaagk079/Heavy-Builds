@@ -1,0 +1,2 @@
+RT Error	19_41_38.290	-314220	Error -314220 Occurred at  Read Single Element from Stream in SeCrTs-UI Commands_R.vi->SeCrTs-RT_Main.vi
+RT Error	19_41_38.302		

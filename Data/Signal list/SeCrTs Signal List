@@ -1,0 +1,107 @@
+C_PT_3,C_EPV_76 HSS,,C_EPV_76,TC_A_C_1,,F_P_H
+C_RTD_3,C_EPV_79 HSS,,C_EPV_79,TC_A_C_2,,F_P_V
+C_RTD_8,N_EPV_108 HSS,,N_EPV_108,TC_A_D,,F_P_A
+C_FM_9 FR,C_EPV_8 HSS,,C_EPV_8,TC_A_ND,,F_M_ND_H
+C_FM_9 FD,C_EPV_125 HSS,,N_EPV_125,TC_L_C_1,,F_M_ND_V
+C_RTD_12,C_EPV_4 HSS,,C_EPV_4,TC_L_C_2,,F_M_ND_A
+C_PT_12,C_EPV_6 HSS,,C_EPV_6,I_TC_1,,F_M_D_H
+C_PT_SC,C_EPV_11 HSS,,C_EPV_11,I_TC_2,,F_M_D_V
+C_RTD_SC,N_EPV_190 HSS,,N_EPV_190,E_TC_T1,,F_M_D_A
+C_RTD_13,C_EPV_14 HSS,,C_EPV_14,E_TC_T2,,F_P_B_H
+C_PT_13,C_EPV_13 HSS,,C_EPV_13,E_TC_T3,,F_P_B_V
+C_PT_15,N_EPV_128 HSS,,N_EPV_128,E_TC_T4,,F_P_B_A
+C_RTD_15,N_EPV_149 HSS,,N_EPV_149,E_TC_T5,,F_P_H
+F_FM_39 FR,F_EPV_41 HSS,,F_EPV_41,,,F_P_V
+F_FM_39 FD,N_EPV_157 HSS,,N_EPV_157,,,F_P_A
+F_PT_41,F_EPV_43 HSS,,F_EPV_43,,,F_M_ND_H
+F_PT_42,F_EPV_38 HSS,,F_EPV_38,,,F_M_ND_V
+F_PT_46,F_EPV_45 HSS,,F_EPV_45,,,F_M_ND_A
+F_RTD_46,N_EPV_178 HSS,,N_EPV_178,,,F_M_D_H
+F_PT_47,F_EPV_174 HSS,,N_EPV_174,,,F_M_D_V
+F_RTD_47,N_EPV_138 HSS,,N_EPV_138,,,F_M_D_A
+F_PT_DC,G_EPV_70 HSS,,G_EPV_70,,,F_P_B_H
+F_PT_SC_1,M_EPV_90 HSS,,M_EPV_90,,,F_P_B_V
+F_PT_SC,N_EPV_185 HSS,,N_EPV_185,,,F_P_B_A
+F_RTD_SC,W_EPV_304 HSS,,Spark plug,,,
+G_PT_63,W_EPV_313 HSS,,W_EPV_304,,,
+G_PT_69,,,W_EPV_313,,,
+G_PT_74,,,,,,
+M_PT_83,,,,,,
+M_PT_89,,,,,,
+M_PT_93,,,,,,
+N_PT_102,,,,,,
+N_PT_107,,,,,,
+N_PT_110,,,,,,
+D_PT_115,,,,,,
+N_PT_118,,,,,,
+N_PT_123,,,,,,
+N_PT_131,,,,,,
+N_PT_137,,,,,,
+N_PT_142,,,,,,
+N_PT_149,,,,,,
+N_PT_151,,,,,,
+D_PT_160,,,,,,
+N_PT_164,,,,,,
+N_PT_170,,,,,,
+N_PT_178,,,,,,
+M_PT_184,,,,,,
+N_PT_189,,,,,,
+N_PT_193,,,,,,
+N_PT_199,,,,,,
+N_PT_201,,,,,,
+N_PT_207,,,,,,
+N_PT_219,,,,,,
+N_PT_232,,,,,,
+N_PT_234,,,,,,
+I_PT_1,,,,,,
+I_PT_2,,,,,,
+E_PT_P1,,,,,,
+E_PT_P2,,,,,,
+C_PT_DC,,,,,,
+C_PT_SC1,,,,,,
+C_PT_18,,,,,,
+C_RTD_18,,,,,,
+W_RTD_306,,,,,,
+W_RTD_307,,,,,,
+W_RTD_314,,,,,,
+W_RTD_316,,,,,,
+V_AB_A,,,,,,
+V_BC_A,,,,,,
+V_CA_A,,,,,,
+V_DC_A,,,,,,
+I_A_A,,,,,,
+I_B_A,,,,,,
+I_C_A,,,,,,
+I_DC_A,,,,,,
+V_AB_L,,,,,,
+V_BC_L,,,,,,
+V_CA_L,,,,,,
+V_DC_L,,,,,,
+I_A_L,,,,,,
+I_B_L,,,,,,
+I_C_L,,,,,,
+I_DC_L,,,,,,
+F_P_H,,,,,,
+F_P_V,,,,,,
+F_P_A,,,,,,
+F_M_ND_H,,,,,,
+F_M_ND_V,,,,,,
+F_M_ND_A,,,,,,
+F_M_D_H,,,,,,
+F_M_D_V,,,,,,
+F_M_D_A,,,,,,
+F_P_B_H,,,,,,
+F_P_B_V,,,,,,
+F_P_B_A,,,,,,
+O_P_H,,,,,,
+O_P_V,,,,,,
+O_P_A,,,,,,
+O_M_ND_H,,,,,,
+O_M_ND_V,,,,,,
+O_M_ND_A,,,,,,
+O_M_D_H,,,,,,
+O_M_D_V,,,,,,
+O_M_D_A,,,,,,
+O_P_B_H,,,,,,
+O_P_B_V,,,,,,
+O_P_B_A,,,,,,

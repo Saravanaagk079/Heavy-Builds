@@ -1,0 +1,8 @@
+Event log	17_17_00.677	Connect RT	
+Event log	17_17_04.036	START DAQ	
+Event log	17_18_20.417	STOP DAQ	
+Event log	17_18_22.179	START DAQ	
+Event log	17_18_30.425	START LOG	
+Event log	17_18_55.538	STOP LOG	
+Event log	17_18_56.176	STOP DAQ	
+Event log	17_18_56.635	Connect RT	

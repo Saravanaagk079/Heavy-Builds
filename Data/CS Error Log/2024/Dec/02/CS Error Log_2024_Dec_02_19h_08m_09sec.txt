@@ -1,0 +1,2 @@
+CS Error	19_17_45.829	-314220	Error -314220 Occurred at  Read Single Element from Stream in SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi
+CS Error	19_22_41.930	-314220	Error -314220 Occurred at  Read Single Element from Stream in SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi

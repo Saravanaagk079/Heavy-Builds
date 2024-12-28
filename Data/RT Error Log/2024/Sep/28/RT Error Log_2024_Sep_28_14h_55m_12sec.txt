@@ -1,0 +1,3 @@
+RT Error	14_55_27.508		
+RT Error	14_59_05.969	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	14_59_05.979		

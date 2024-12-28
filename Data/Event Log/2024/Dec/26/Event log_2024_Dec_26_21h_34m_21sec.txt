@@ -1,0 +1,52 @@
+Event log	21_34_31.482	Connect RT	
+Event log	21_34_38.172	START DAQ	
+Event log	21_35_15.152	START LOG	
+Event log	21_35_19.841	STOP LOG	
+Event log	21_35_22.014	STOP DAQ	
+Event log	21_35_27.809	DAQ SETTING	
+Event log	21_50_07.123	START DAQ	
+Event log	21_50_15.291	N_EPV_185	
+Event log	21_50_17.334	N_EPV_185	
+Event log	21_50_25.026	N_EPV_185	
+Event log	21_50_28.677	C_EPV_11	
+Event log	21_50_31.915	N_EPV_128	
+Event log	21_50_33.162	N_EPV_149	
+Event log	21_50_35.024	N_EPV_125	
+Event log	21_50_35.955	N_EPV_108	
+Event log	21_50_36.709	C_EPV_8	
+Event log	21_50_38.446	N_EPV_157	
+Event log	21_50_39.932	N_EPV_138	
+Event log	21_50_40.682	N_EPV_174	
+Event log	21_50_41.420	N_EPV_178	
+Event log	21_50_42.343	F_EPV_41	
+Event log	21_50_43.169	F_EPV_38	
+Event log	21_51_09.516	Pre readiness file	
+Event log	21_51_10.610	sequence readiness	
+Event log	21_51_17.407	Safe State	
+Event log	21_52_06.095	Get Sequence 	
+Event log	21_52_43.147	Set	
+Event log	21_52_47.859	Get Sequence 	
+Event log	21_52_49.773	Start or Revert Sequence	
+Event log	21_53_53.001	Start or Revert Sequence	
+Event log	21_53_58.505	Get Sequence 	
+Event log	21_54_19.748	Get Sequence 	
+Event log	21_54_30.992	Set	
+Event log	21_54_37.458	Safe State	
+Event log	21_54_38.745	Get Sequence 	
+Event log	21_54_40.559	Start or Revert Sequence	
+Event log	21_55_52.948	Hold CDT	
+Event log	21_55_54.948	Start or Revert Sequence	
+Event log	21_56_07.568	Set	
+Event log	21_56_16.237	Set	
+Event log	21_56_17.369	Get Sequence 	
+Event log	21_56_29.060	Safe State	
+Event log	21_56_30.550	Start or Revert Sequence	
+Event log	21_57_16.402	Hold CDT	
+Event log	21_57_18.765	Start or Revert Sequence	
+Event log	21_57_35.285	STOP LOG	
+Event log	21_57_41.366	C_EPV_11	
+Event log	21_57_41.899	N_EPV_185	
+Event log	21_57_42.777	N_EPV_185	
+Event log	21_57_43.556	C_EPV_11	
+Event log	21_57_50.818	STOP DAQ	
+Event log	21_57_53.970	Connect RT	

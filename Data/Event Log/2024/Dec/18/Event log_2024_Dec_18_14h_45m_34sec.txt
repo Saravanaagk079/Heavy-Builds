@@ -1,0 +1,60 @@
+Event log	14_45_50.116	Connect RT	
+Event log	14_45_54.087	START DAQ	
+Event log	14_46_00.052	START DAQ	
+Event log	14_46_14.365	START LOG	
+Event log	14_46_17.106	N_EPV_125	
+Event log	14_47_13.438	N_EPV_125	
+Event log	14_47_15.403	N_EPV_125	
+Event log	14_47_15.995	N_EPV_125	
+Event log	14_47_16.356	N_EPV_125	
+Event log	14_47_16.577	N_EPV_125	
+Event log	14_47_16.875	N_EPV_125	
+Event log	14_47_17.303	N_EPV_125	
+Event log	14_47_17.607	N_EPV_125	
+Event log	14_47_17.886	N_EPV_125	
+Event log	14_47_18.186	N_EPV_125	
+Event log	14_47_18.482	N_EPV_125	
+Event log	14_47_18.697	N_EPV_125	
+Event log	14_47_18.901	N_EPV_125	
+Event log	14_47_19.119	N_EPV_125	
+Event log	14_47_19.320	N_EPV_125	
+Event log	14_47_19.526	N_EPV_125	
+Event log	14_47_19.728	N_EPV_125	
+Event log	14_47_19.946	N_EPV_125	
+Event log	14_47_20.166	N_EPV_125	
+Event log	14_47_20.370	N_EPV_125	
+Event log	14_47_20.572	N_EPV_125	
+Event log	14_47_20.790	N_EPV_125	
+Event log	14_47_21.022	N_EPV_125	
+Event log	14_47_21.223	N_EPV_125	
+Event log	14_47_21.458	N_EPV_125	
+Event log	14_47_21.692	N_EPV_125	
+Event log	14_47_21.895	N_EPV_125	
+Event log	14_47_22.113	N_EPV_125	
+Event log	14_47_22.317	N_EPV_125	
+Event log	14_47_22.521	N_EPV_125	
+Event log	14_47_22.710	N_EPV_125	
+Event log	14_47_22.907	N_EPV_125	
+Event log	14_47_23.428	N_EPV_125	
+Event log	14_47_23.692	N_EPV_125	
+Event log	14_47_23.896	N_EPV_125	
+Event log	14_47_24.085	N_EPV_125	
+Event log	14_47_24.303	N_EPV_125	
+Event log	14_47_24.527	N_EPV_125	
+Event log	14_47_24.740	N_EPV_125	
+Event log	14_47_24.962	N_EPV_125	
+Event log	14_47_25.165	N_EPV_125	
+Event log	14_47_25.384	N_EPV_125	
+Event log	14_47_25.586	N_EPV_125	
+Event log	14_47_25.803	N_EPV_125	
+Event log	14_47_25.990	N_EPV_125	
+Event log	14_47_26.208	N_EPV_125	
+Event log	14_47_26.411	N_EPV_125	
+Event log	14_47_26.600	N_EPV_125	
+Event log	14_47_26.770	N_EPV_125	
+Event log	14_47_26.925	N_EPV_125	
+Event log	14_47_27.131	N_EPV_125	
+Event log	14_47_27.332	N_EPV_125	
+Event log	14_47_35.681	STOP LOG	
+Event log	14_47_36.697	STOP DAQ	
+Event log	14_47_40.251	Connect RT	

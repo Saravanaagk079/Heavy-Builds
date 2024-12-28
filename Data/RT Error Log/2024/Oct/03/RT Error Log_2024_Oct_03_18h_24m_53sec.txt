@@ -1,0 +1,27 @@
+RT Error	00_10_34.096		
+RT Error	04_54_58.301	-200088	Error -200088 Occurred at  DAQmx Stop Task.vi:3590007<append>
+
+RT Error	04_54_58.301		
+RT Error	04_54_58.432	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	04_54_58.432		
+RT Error	04_54_58.664	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	04_54_58.664		
+RT Error	04_54_58.921	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440008<append>
+<B>Task Name: </B>AI_C
+RT Error	04_54_58.922		
+RT Error	04_56_28.837	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	04_56_28.854		
+RT Error	04_56_31.115	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	04_56_31.126		
+RT Error	05_01_09.134	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	05_01_09.153		
+RT Error	05_01_13.084	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	05_01_13.103		
+RT Error	05_07_27.661	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	05_07_27.671		
+RT Error	05_07_29.851	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	05_07_29.871		
+RT Error	05_17_54.658	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	05_17_54.669		
+RT Error	05_17_56.888	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	05_17_56.898		

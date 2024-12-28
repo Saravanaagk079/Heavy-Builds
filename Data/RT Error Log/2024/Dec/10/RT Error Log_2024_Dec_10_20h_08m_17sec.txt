@@ -1,0 +1,9 @@
+RT Error	20_08_47.316		
+RT Error	20_13_17.984	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	20_13_17.995		
+RT Error	20_13_20.254	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	20_13_20.265		
+RT Error	20_23_22.275	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	20_23_22.286		
+RT Error	20_23_24.544	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	20_23_24.556		

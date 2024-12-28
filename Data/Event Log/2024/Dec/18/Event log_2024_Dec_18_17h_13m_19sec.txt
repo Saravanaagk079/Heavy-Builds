@@ -1,0 +1,36 @@
+Event log	17_13_37.509	DAQ SETTING	
+Event log	17_14_44.786	DAQ SETTING	
+Event log	17_24_20.486	Connect RT	
+Event log	17_24_21.907	START DAQ	
+Event log	17_24_28.496	START DAQ	
+Event log	17_24_58.471	START LOG	
+Event log	17_25_38.306	STOP LOG	
+Event log	17_25_39.363	STOP DAQ	
+Event log	17_25_40.363	START DAQ	
+Event log	17_31_57.947	STOP DAQ	
+Event log	17_31_59.624	START DAQ	
+Event log	17_32_37.664	STOP DAQ	
+Event log	17_32_39.160	START DAQ	
+Event log	17_34_35.503	STOP DAQ	
+Event log	17_34_42.025	START DAQ	
+Event log	17_36_16.370	STOP DAQ	
+Event log	17_36_17.460	Connect RT	
+Event log	17_37_37.659	Connect RT	
+Event log	17_37_39.274	START DAQ	
+Event log	17_40_05.456	STOP DAQ	
+Event log	17_40_08.473	START DAQ	
+Event log	17_40_30.154	STOP DAQ	
+Event log	17_40_48.402	Connect RT	
+Event log	17_45_07.030	Connect RT	
+Event log	17_45_08.916	START DAQ	
+Event log	17_45_19.085	START LOG	
+Event log	17_45_42.977	Set	
+Event log	17_45_46.717	Get Sequence 	
+Event log	17_45_49.367	Start or Revert Sequence	
+Event log	17_45_54.647	Safe State	
+Event log	17_45_56.221	Safe State	
+Event log	17_46_19.377	Hold CDT	
+Event log	17_46_20.356	Start or Revert Sequence	
+Event log	17_46_21.538	STOP LOG	
+Event log	17_46_22.526	STOP DAQ	
+Event log	17_46_23.214	Connect RT	

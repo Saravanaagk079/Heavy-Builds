@@ -1,0 +1,11 @@
+Event log	19_29_45.931	Hold CDT	
+Event log	19_30_04.610	Connect RT	
+Event log	19_30_07.076	START DAQ	
+Event log	19_30_11.866	START LOG	
+Event log	19_30_20.069	Get Sequence 	
+Event log	19_30_31.698	Set	
+Event log	19_30_32.986	Start or Revert Sequence	
+Event log	19_30_52.854	Get Sequence 	
+Event log	19_31_07.502	STOP LOG	
+Event log	19_31_08.101	STOP DAQ	
+Event log	19_31_08.695	Connect RT	

@@ -1,0 +1,6 @@
+Event log	19_24_22.123	Enable/Disable IP	
+Event log	19_24_33.319	IP ADDRESS	
+Event log	19_24_33.324	Enable/Disable IP	
+Event log	19_24_41.970	Connect RT	
+Event log	19_24_45.957	RT Stop	
+Event log	19_24_47.737	Connect RT	

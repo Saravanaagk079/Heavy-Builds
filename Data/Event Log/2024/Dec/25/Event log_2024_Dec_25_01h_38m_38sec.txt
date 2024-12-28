@@ -1,0 +1,13 @@
+Event log	01_39_00.473	Connect RT	
+Event log	01_39_06.837	START DAQ	
+Event log	01_39_08.660	START LOG	
+Event log	01_39_33.175	Set	
+Event log	01_39_37.801	Pre readiness file	
+Event log	01_39_38.810	sequence readiness	
+Event log	01_39_46.444	Get Sequence 	
+Event log	01_43_13.079	Set	
+Event log	01_43_21.157	sequence readiness	
+Event log	01_43_24.522	Get Sequence 	
+Event log	01_43_48.001	STOP LOG	
+Event log	01_43_49.983	STOP DAQ	
+Event log	01_43_50.795	Connect RT	

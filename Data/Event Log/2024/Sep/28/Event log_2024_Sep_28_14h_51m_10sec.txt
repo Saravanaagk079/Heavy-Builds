@@ -1,0 +1,18 @@
+Event log	14_51_30.858	Connect RT	
+Event log	14_51_32.611	START DAQ	
+Event log	14_53_30.434	START LOG	
+Event log	14_53_34.386	C_EPV_75	
+Event log	14_53_35.673	C_EPV_75	
+Event log	14_53_36.850	C_EPV_75	
+Event log	14_53_38.050	C_EPV_75	
+Event log	14_53_42.078	C_EPV_75	
+Event log	14_53_42.743	C_EPV_75	
+Event log	14_53_43.811	C_EPV_75	
+Event log	14_53_46.688	C_EPV_75	
+Event log	14_53_47.404	C_EPV_75	
+Event log	14_53_48.330	C_EPV_75	
+Event log	14_53_49.466	C_EPV_75	
+Event log	14_53_50.606	C_EPV_75	
+Event log	14_54_07.580	STOP LOG	
+Event log	14_54_26.646	STOP DAQ	
+Event log	14_54_28.870	RT Stop	

@@ -1,0 +1,7 @@
+Event log	17_58_47.712	Connect RT	
+Event log	17_59_06.447	START DAQ	
+Event log	17_59_19.726	START LOG	
+Event log	17_59_34.763	Set	
+Event log	17_59_39.536	Get Sequence 	
+Event log	17_59_42.077	Start or Revert Sequence	
+Event log	18_38_46.916	Connect RT	

@@ -1,0 +1,10 @@
+Event log	17_59_28.279	Connect RT	
+Event log	17_59_30.141	START DAQ	
+Event log	17_59_38.086	START LOG	
+Event log	18_00_10.729	N_EPV_138	
+Event log	18_00_13.118	N_EPV_185	
+Event log	18_00_43.313	C&I L	
+Event log	18_01_43.391	C&I L	
+Event log	18_01_44.822	STOP LOG	
+Event log	18_01_45.655	STOP DAQ	
+Event log	18_01_46.222	Connect RT	

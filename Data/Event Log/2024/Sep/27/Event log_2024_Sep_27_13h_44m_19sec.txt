@@ -1,0 +1,7 @@
+Event log	13_44_39.982	Connect RT	
+Event log	13_44_47.276	Enable/Disable IP	
+Event log	13_44_55.146	IP ADDRESS	
+Event log	13_44_55.155	Enable/Disable IP	
+Event log	13_44_56.493	Connect RT	
+Event log	13_44_59.078	RT Stop	
+Event log	13_45_00.998	Connect RT	

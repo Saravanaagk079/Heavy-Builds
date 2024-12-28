@@ -1,0 +1,7 @@
+Event log	20_00_16.104	Pre readiness file	
+Event log	20_00_18.420	sequence readiness	
+Event log	20_00_24.308	sequence readiness	
+Event log	20_00_43.712	Get Sequence 	
+Event log	20_01_15.706	sequence readiness	
+Event log	20_01_45.133	sequence readiness	
+Event log	20_01_50.572	Get Sequence 	

@@ -1,0 +1,76 @@
+Event log	15_54_33.244	Connect RT	
+Event log	15_54_37.735	START DAQ	
+Event log	15_55_11.396	STOP DAQ	
+Event log	15_55_16.630	START DAQ	
+Event log	15_59_32.167	STOP DAQ	
+Event log	15_59_32.922	Connect RT	
+Event log	15_59_35.992	Connect RT	
+Event log	15_59_38.674	START DAQ	
+Event log	16_00_21.466	STOP DAQ	
+Event log	16_00_22.253	Connect RT	
+Event log	16_03_19.890	Connect RT	
+Event log	16_04_49.472	START DAQ	
+Event log	16_05_58.683	START LOG	
+Event log	16_06_06.574	Set	
+Event log	16_06_09.055	Start or Revert Sequence	
+Event log	16_11_34.634	Start or Revert Sequence	
+Event log	16_11_51.857	Set	
+Event log	16_11_53.230	Start or Revert Sequence	
+Event log	16_13_00.743	Start or Revert Sequence	
+Event log	16_13_02.158	STOP LOG	
+Event log	16_13_03.123	STOP DAQ	
+Event log	16_14_00.045	START DAQ	
+Event log	16_15_37.400	STOP DAQ	
+Event log	16_15_46.319	Connect RT	
+Event log	16_16_13.067	Connect RT	
+Event log	16_16_14.771	START DAQ	
+Event log	16_17_12.159	STOP DAQ	
+Event log	16_17_12.779	Connect RT	
+Event log	16_20_17.598	Connect RT	
+Event log	16_20_19.044	START DAQ	
+Event log	16_23_25.919	START LOG	
+Event log	16_23_28.737	C_EPV_13	
+Event log	16_23_31.904	C_EPV_14	
+Event log	16_23_34.445	C_EPV_11	
+Event log	16_23_35.386	N_EPV_128	
+Event log	16_23_36.072	C_EPV_13	
+Event log	16_23_36.819	C_EPV_14	
+Event log	16_27_56.028	STOP LOG	
+Event log	16_27_58.969	STOP DAQ	
+Event log	16_28_00.781	Connect RT	
+Event log	16_30_17.847	Connect RT	
+Event log	16_30_20.769	START DAQ	
+Event log	16_30_44.235	START LOG	
+Event log	16_31_35.011	STOP LOG	
+Event log	16_31_36.028	STOP DAQ	
+Event log	16_31_37.089	START DAQ	
+Event log	16_34_35.440	STOP DAQ	
+Event log	16_34_39.920	Connect RT	
+Event log	16_41_16.041	Connect RT	
+Event log	16_41_18.925	START DAQ	
+Event log	16_42_20.867	STOP DAQ	
+Event log	16_42_26.608	Connect RT	
+Event log	16_44_22.364	Connect RT	
+Event log	16_44_35.369	START DAQ	
+Event log	16_45_40.366	STOP DAQ	
+Event log	16_45_42.342	START DAQ	
+Event log	16_46_20.710	STOP DAQ	
+Event log	16_46_23.638	START DAQ	
+Event log	16_47_03.812	STOP DAQ	
+Event log	16_47_04.684	Connect RT	
+Event log	16_50_00.052	Connect RT	
+Event log	16_50_02.047	START DAQ	
+Event log	16_50_27.934	STOP DAQ	
+Event log	16_50_29.508	START DAQ	
+Event log	16_51_13.774	STOP DAQ	
+Event log	16_51_15.980	Connect RT	
+Event log	16_51_45.076	Connect RT	
+Event log	16_51_50.976	START DAQ	
+Event log	16_52_16.272	STOP DAQ	
+Event log	16_52_20.122	Connect RT	
+Event log	16_54_12.429	Connect RT	
+Event log	16_54_14.114	START DAQ	
+Event log	16_54_46.686	STOP DAQ	
+Event log	16_54_48.594	START DAQ	
+Event log	16_56_06.036	STOP DAQ	
+Event log	16_56_07.051	Connect RT	

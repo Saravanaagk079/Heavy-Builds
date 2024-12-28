@@ -1,0 +1,97 @@
+Event log	18_53_21.041	Connect RT	
+Event log	18_53_25.280	START DAQ	
+Event log	18_53_26.195	N_EPV_185	
+Event log	18_53_27.167	N_EPV_138	
+Event log	18_53_47.482	START LOG	
+Event log	18_59_36.422	Gate driver- LOX	
+Event log	18_59_49.972	Gate driver- LOX	
+Event log	19_00_02.546	Gate driver- LOX	
+Event log	19_00_10.281	Gate driver- LOX	
+Event log	19_00_19.717	C&I L	
+Event log	19_00_32.291	Connect Drive Lox	
+Event log	19_04_23.807	Connect Drive Lox	
+Event log	19_04_26.099	C&I L	
+Event log	19_04_50.248	C&I L	
+Event log	19_06_10.664	Connect Drive Lox	
+Event log	19_07_32.827	MCU Reset -LOX	
+Event log	19_08_15.558	Connect Drive Lox	
+Event log	19_08_23.519	C&I L	
+Event log	19_08_31.617	C&I L	
+Event log	19_08_37.272	Connect Drive Lox	
+Event log	19_11_12.832	MCU Reset -LOX	
+Event log	19_13_57.353	Connect Drive Lox	
+Event log	19_13_59.737	C&I L	
+Event log	19_15_28.114	STOP LOG	
+Event log	19_15_29.999	STOP DAQ	
+Event log	19_15_31.701	Connect RT	
+Event log	19_19_06.914	Connect RT	
+Event log	19_19_08.276	START DAQ	
+Event log	19_19_10.608	N_EPV_185	
+Event log	19_19_11.594	N_EPV_138	
+Event log	19_19_20.222	START LOG	
+Event log	19_20_32.061	C&I L	
+Event log	19_20_38.072	Connect Drive Lox	
+Event log	19_22_52.545	Update drive lox	
+Event log	19_23_53.299	MCU Reset -LOX	
+Event log	19_24_14.079	Update drive lox	
+Event log	19_24_40.064	MCU Reset -LOX	
+Event log	19_24_53.663	Update drive lox	
+Event log	19_25_07.728	Motor On lox	
+Event log	19_25_25.349	Motor Off lox	
+Event log	19_36_59.103	Connect Drive Lox	
+Event log	19_37_02.855	C&I L	
+Event log	19_37_53.000	C&I L	
+Event log	19_37_57.428	Connect Drive Lox	
+Event log	19_39_07.451	MCU Reset -LOX	
+Event log	19_42_30.770	Connect Drive Lox	
+Event log	19_42_34.351	C&I L	
+Event log	19_52_39.240	STOP LOG	
+Event log	19_52_40.392	STOP DAQ	
+Event log	19_52_41.894	Connect RT	
+Event log	19_55_10.593	Connect RT	
+Event log	19_55_16.948	START DAQ	
+Event log	19_55_17.770	N_EPV_185	
+Event log	19_55_18.763	N_EPV_138	
+Event log	20_08_22.490	DAQ SETTING	
+Event log	20_08_55.030	START LOG	
+Event log	20_09_50.515	C&I L	
+Event log	20_09_58.869	Connect Drive Lox	
+Event log	20_10_31.081	Connect Drive Lox	
+Event log	20_10_33.458	C&I L	
+Event log	20_12_26.939	C&I L	
+Event log	20_12_32.772	Connect Drive Lox	
+Event log	20_14_53.674	Connect Drive Lox	
+Event log	20_14_55.794	C&I L	
+Event log	20_16_20.765	DAQ SETTING	
+Event log	20_17_19.207	DAQ SETTING	
+Event log	20_18_10.975	DAQ SETTING	
+Event log	20_19_51.401	DAQ SETTING	
+Event log	20_24_05.452	DAQ SETTING	
+Event log	20_27_46.535	DAQ SETTING	
+Event log	20_32_51.307	DAQ SETTING	
+Event log	20_34_30.933	C&I L	
+Event log	20_34_42.107	Connect Drive Lox	
+Event log	20_35_50.123	MCU Reset -LOX	
+Event log	20_39_15.285	N_EPV_185	
+Event log	20_39_19.656	N_EPV_138	
+Event log	20_39_25.757	STOP LOG	
+Event log	20_46_10.772	Connect Drive Lox	
+Event log	20_46_13.849	C&I L	
+Event log	20_47_48.730	C&I L	
+Event log	20_47_55.542	Gate driver- LOX	
+Event log	20_48_09.425	Gate driver- LOX	
+Event log	20_48_16.819	C&I L	
+Event log	20_48_53.164	DAQ SETTING	
+Event log	20_50_17.731	STOP DAQ	
+Event log	20_50_19.669	DAQ SETTING	
+Event log	20_51_51.300	START DAQ	
+Event log	20_52_05.324	N_EPV_138	
+Event log	20_52_11.871	N_EPV_185	
+Event log	20_54_09.410	DAQ SETTING	
+Event log	21_19_30.175	N_EPV_138	
+Event log	21_19_40.840	N_EPV_185	
+Event log	21_20_19.729	STOP DAQ	
+Event log	21_20_24.577	START DAQ	
+Event log	21_22_16.271	DAQ SETTING	
+Event log	21_56_00.581	STOP DAQ	
+Event log	21_56_01.606	Connect RT	

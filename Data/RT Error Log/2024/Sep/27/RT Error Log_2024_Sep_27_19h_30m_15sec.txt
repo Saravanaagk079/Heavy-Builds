@@ -1,0 +1,4 @@
+RT Error	19_31_01.055	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	19_31_01.055	-314106	Error -314106 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	19_31_01.076	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	19_31_01.076		

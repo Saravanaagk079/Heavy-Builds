@@ -1,0 +1,6 @@
+Event log	13_26_43.237	Enable/Disable IP	
+Event log	13_26_50.864	IP ADDRESS	
+Event log	13_26_54.033	Connect RT	
+Event log	13_26_55.718	START DAQ	
+Event log	13_28_12.917	STOP DAQ	
+Event log	13_28_14.946	RT Stop	

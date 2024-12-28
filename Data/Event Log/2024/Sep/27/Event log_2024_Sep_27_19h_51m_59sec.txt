@@ -1,0 +1,41 @@
+Event log	19_52_11.002	Enable/Disable IP	
+Event log	19_52_18.410	IP ADDRESS	
+Event log	19_52_18.417	Enable/Disable IP	
+Event log	19_52_20.122	Connect RT	
+Event log	19_52_28.256	START DAQ	
+Event log	19_52_39.126	START LOG	
+Event log	19_52_42.395	C_EPV_78	
+Event log	19_52_43.591	C_EPV_78	
+Event log	19_52_44.522	C_EPV_78	
+Event log	19_52_45.474	C_EPV_78	
+Event log	19_52_46.383	C_EPV_78	
+Event log	19_52_47.206	C_EPV_78	
+Event log	19_52_47.914	C_EPV_78	
+Event log	19_52_48.683	C_EPV_78	
+Event log	19_53_29.584	C_EPV_78	
+Event log	19_53_30.917	C_EPV_75	
+Event log	19_53_33.124	C_EPV_75	
+Event log	19_53_33.682	C_EPV_75	
+Event log	19_53_34.208	C_EPV_75	
+Event log	19_53_34.747	C_EPV_75	
+Event log	19_53_35.319	C_EPV_75	
+Event log	19_53_35.808	C_EPV_75	
+Event log	19_53_36.203	C_EPV_75	
+Event log	19_53_36.926	C_EPV_75	
+Event log	19_53_37.793	C_EPV_75	
+Event log	19_53_38.646	C_EPV_75	
+Event log	19_53_39.498	C_EPV_75	
+Event log	19_53_42.815	STOP LOG	
+Event log	19_54_01.742	Log option	
+Event log	19_54_07.195	START LOG	
+Event log	19_54_24.070	C_EPV_75	
+Event log	19_54_24.768	C_EPV_75	
+Event log	19_54_25.754	C_EPV_8	
+Event log	19_54_26.258	C_EPV_8	
+Event log	19_54_27.221	C_EPV_125	
+Event log	19_54_27.764	C_EPV_125	
+Event log	19_54_28.844	N_EPV_190	
+Event log	19_54_29.344	N_EPV_190	
+Event log	19_56_26.280	STOP LOG	
+Event log	19_58_29.473	STOP DAQ	
+Event log	19_58_31.314	RT Stop	

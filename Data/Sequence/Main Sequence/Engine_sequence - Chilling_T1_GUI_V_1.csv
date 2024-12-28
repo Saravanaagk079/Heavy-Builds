@@ -1,0 +1,49 @@
+Sequence,Intermediate Abort,NA,Safety Abort,NA,Other,NA,,,,,
+,Sequence Name: ,PGSQ_T1,,,,,,,,,
+,No.of Sensors:,,,No.of Valves:,,,,,,,
+Sr. No.,Time CDT(s),Component ID,Data Type,Condition,Range/Position,No of Samples for Pass,Event Duration(S),Continuous /Cumulative,Expected Delay(ms),Failure Case Sequence,Current Sequence
+1,-12.23,N_EPV_128 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+2,-12.22,N_EPV_175 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+3,-12.21,C_EPV_6,DO,,Close,,0.1,,-,ABORT,Purge sequence
+4,-12.11,C_EPV_6 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+5,-12.1,N_EPV_125,DO,,Open,,0.1,,-,ABORT,Purge sequence
+6,-12,N_EPV_125 HSS,DI,,Open,1,0.01,Continuous,-,ABORT,Purge sequence
+7,-11.99,N_EPV_72,DO,,Open,,0.1,,-,ABORT,Purge sequence
+8,-11.89,N_EPV_72 HSS,DI,,Open,1,0.01,Continuous,-,ABORT,Purge sequence
+9,-11.88,C_EPV_11,DO,,Open,,0.1,,-,ABORT,Purge sequence
+10,-11.78,C_EPV_11 HSS,DI,,Open,1,0.01,Continuous,-,ABORT,Purge sequence
+11,-11.77,F_EPV_41,DO,,Open,,0.1,,-,ABORT,Purge sequence
+12,-11.67,F_EPV_41 HSS,DI,,Open,1,0.01,Continuous,-,ABORT,Purge sequence
+13,-11.66,C_EPV_14,DO,,Close,,0.1,,-,ABORT,Purge sequence
+14,-11.56,C_EPV_14 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+15,-11.55,F_EPV_43,DO,,Close,,0.1,,-,ABORT,Purge sequence
+16,-11.45,F_EPV_43 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+17,-11.44,F_EPV_45,DO,,Close,,0.1,,-,ABORT,Purge sequence
+18,-11.34,F_EPV_45 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+19,-11.33,C_EPV_13,DO,,Close,,0.1,,-,ABORT,Purge sequence
+20,-11.23,C_EPV_13 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+21,-11.22,N_EPV_138,DO,,Open,,0.1,,-,ABORT,Purge sequence
+22,-11.12,N_EPV_138 HSS,DI,,Open,1,0.01,Continuous,-,ABORT,Purge sequence
+23,-11.11,N_EPV_185,DO,,Open,,0.1,,-,ABORT,Purge sequence
+24,-11.01,N_EPV_185 HSS,DI,,Open,8,0.1,Continuous,-,ABORT,Purge sequence
+25,-11,N_EPV_138,DO,,Close,,10,,-,ABORT,Purge sequence
+26,-1,N_EPV_138 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+27,-0.99,N_EPV_185,DO,,Close,,0.1,,-,ABORT,Purge sequence
+28,-0.89,N_EPV_185 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+29,-0.88,C_EPV_125,DO,,Close,,0.1,,-,ABORT,Purge sequence
+30,-0.78,C_EPV_125 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+31,-0.77,N_EPV_72,DO,,Close,,0.1,,-,ABORT,Purge sequence
+32,-0.67,N_EPV_72 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+33,-0.66,C_EPV_11,DO,,Close,,0.1,,-,ABORT,Purge sequence
+34,-0.56,C_EPV_11 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+35,-0.55,F_EPV_41,DO,,Close,,0.1,,-,ABORT,Purge sequence
+36,-0.45,F_EPV_41 HSS,DI,,Close,1,0.01,Continuous,-,ABORT,Purge sequence
+37,-0.44,C_EPV_14,DO,,Open,,0.1,,-,ABORT,Purge sequence
+38,-0.34,C_EPV_14 HSS,DI,,Open,1,0.01,Continuous,-,ABORT,Purge sequence
+39,-0.33,F_EPV_43,DO,,Open,,0.1,,-,ABORT,Purge sequence
+40,-0.23,F_EPV_43 HSS,DI,,Open,1,0.01,Continuous,-,ABORT,Purge sequence
+41,-0.22,F_EPV_45,DO,,Open,,0.1,,-,ABORT,Purge sequence
+42,-0.12,F_EPV_45 HSS,DI,,Open,1,0.01,Continuous,-,ABORT,Purge sequence
+43,-0.11,C_EPV_13,DO,,Open,,0.1,,-,ABORT,Purge sequence
+44,-0.01,C_EPV_13 HSS,DI,,Open,1,0.01,Continuous,-,ABORT,Purge sequence
+,0,,,,,,,,,,

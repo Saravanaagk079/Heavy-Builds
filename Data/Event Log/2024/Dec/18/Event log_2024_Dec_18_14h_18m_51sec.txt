@@ -1,0 +1,47 @@
+Event log	14_19_03.315	Connect RT	
+Event log	14_20_02.840	START DAQ	
+Event log	14_20_09.035	START DAQ	
+Event log	14_21_03.841	START LOG	
+Event log	14_21_14.353	Set	
+Event log	14_21_23.982	Get Sequence 	
+Event log	14_21_33.078	Set	
+Event log	14_21_34.052	Start or Revert Sequence	
+Event log	14_21_49.046	Hold CDT	
+Event log	14_21_50.222	Start or Revert Sequence	
+Event log	14_21_54.542	Get Sequence 	
+Event log	14_21_58.968	Safe State	
+Event log	14_22_08.379	Set	
+Event log	14_22_09.832	Start or Revert Sequence	
+Event log	14_22_34.261	Hold CDT	
+Event log	14_22_35.262	Start or Revert Sequence	
+Event log	14_22_38.555	N_EPV_125	
+Event log	14_22_39.218	N_EPV_125	
+Event log	14_22_39.785	N_EPV_125	
+Event log	14_22_40.070	N_EPV_125	
+Event log	14_22_40.256	N_EPV_125	
+Event log	14_22_40.442	N_EPV_125	
+Event log	14_22_40.626	N_EPV_125	
+Event log	14_22_40.828	N_EPV_125	
+Event log	14_22_40.999	N_EPV_125	
+Event log	14_22_41.190	N_EPV_125	
+Event log	14_22_41.820	N_EPV_125	
+Event log	14_22_46.669	STOP LOG	
+Event log	14_22_49.354	DAQ SETTING	
+Event log	14_25_49.682	START LOG	
+Event log	14_25_52.816	N_EPV_125	
+Event log	14_26_04.081	N_EPV_125	
+Event log	14_26_04.444	N_EPV_125	
+Event log	14_26_04.816	N_EPV_125	
+Event log	14_26_05.145	N_EPV_125	
+Event log	14_26_05.505	N_EPV_125	
+Event log	14_26_05.859	N_EPV_125	
+Event log	14_26_06.093	N_EPV_125	
+Event log	14_26_06.324	N_EPV_125	
+Event log	14_26_06.508	N_EPV_125	
+Event log	14_26_06.710	N_EPV_125	
+Event log	14_26_06.929	N_EPV_125	
+Event log	14_26_07.352	N_EPV_125	
+Event log	14_26_08.736	N_EPV_125	
+Event log	14_26_10.575	STOP LOG	
+Event log	14_26_11.776	STOP DAQ	
+Event log	14_26_12.679	Connect RT	

@@ -1,0 +1,11 @@
+Event log	18_39_41.782	Connect RT	
+Event log	18_39_55.198	Connect RT	
+Event log	18_40_20.153	START DAQ	
+Event log	18_40_26.228	START DAQ	
+Event log	18_40_28.448	START LOG	
+Event log	18_40_31.632	STOP LOG	
+Event log	18_40_33.018	START LOG	
+Event log	18_40_36.794	STOP LOG	
+Event log	18_40_38.357	STOP DAQ	
+Event log	18_40_41.948	Connect RT	
+Event log	18_40_43.168	Connect RT	

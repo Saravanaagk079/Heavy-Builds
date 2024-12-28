@@ -1,0 +1,37 @@
+Event log	14_50_29.587	Connect RT	
+Event log	14_50_31.726	START DAQ	
+Event log	14_50_37.446	START DAQ	
+Event log	14_54_30.538	START LOG	
+Event log	14_54_50.255	N_EPV_125	
+Event log	14_54_51.064	N_EPV_125	
+Event log	14_54_52.629	STOP LOG	
+Event log	14_54_53.639	STOP DAQ	
+Event log	14_54_54.989	START DAQ	
+Event log	14_54_56.684	START LOG	
+Event log	14_55_15.544	Set	
+Event log	14_55_17.529	Get Sequence 	
+Event log	14_55_19.981	Start or Revert Sequence	
+Event log	14_55_36.925	Hold CDT	
+Event log	14_55_38.696	Start or Revert Sequence	
+Event log	14_55_40.404	Safe State	
+Event log	14_55_52.543	Set	
+Event log	14_55_53.495	Start or Revert Sequence	
+Event log	14_56_37.057	Hold CDT	
+Event log	14_56_37.967	Start or Revert Sequence	
+Event log	14_56_39.078	STOP LOG	
+Event log	14_56_40.077	STOP DAQ	
+Event log	14_56_42.000	Connect RT	
+Event log	15_20_01.990	Connect RT	
+Event log	15_20_03.591	START DAQ	
+Event log	15_20_17.717	START LOG	
+Event log	15_20_31.385	Set	
+Event log	15_20_33.277	Start or Revert Sequence	
+Event log	15_20_35.654	Start or Revert Sequence	
+Event log	15_20_36.830	Get Sequence 	
+Event log	15_20_39.741	Start or Revert Sequence	
+Event log	15_20_57.929	Start or Revert Sequence	
+Event log	15_21_43.549	STOP LOG	
+Event log	15_21_54.474	STOP DAQ	
+Event log	15_22_40.223	START DAQ	
+Event log	15_24_57.319	STOP DAQ	
+Event log	15_24_58.530	Connect RT	

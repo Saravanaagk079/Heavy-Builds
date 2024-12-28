@@ -1,0 +1,261 @@
+Event log	22_05_29.731	Connect RT	
+Event log	22_05_34.812	START DAQ	
+Event log	22_21_50.048	C&I A	
+Event log	22_22_04.223	C&I L	
+Event log	22_22_14.005	Gate driver ATF	
+Event log	22_22_34.667	Gate driver- LOX	
+Event log	22_22_46.149	Connect Drive ATF	
+Event log	22_24_44.473	Connect Drive ATF	
+Event log	22_24_50.056	MCU reset ATF	
+Event log	22_24_52.652	Connect Drive ATF	
+Event log	22_25_27.104	Connect Drive ATF	
+Event log	22_25_28.886	Connect Drive Lox	
+Event log	22_26_00.412	DAQ SETTING	
+Event log	22_26_12.060	Connect Drive ATF	
+Event log	22_26_59.462	Connect Drive ATF	
+Event log	22_27_07.920	Gate driver ATF	
+Event log	22_27_16.974	C&I A	
+Event log	22_27_42.431	Gate driver- LOX	
+Event log	22_27_59.399	Connect Drive Lox	
+Event log	22_28_01.492	Connect Drive Lox	
+Event log	22_28_37.855	C&I A	
+Event log	22_28_42.187	Connect Drive ATF	
+Event log	22_29_33.274	Connect Drive ATF	
+Event log	22_29_37.457	Connect Drive ATF	
+Event log	22_31_49.131	MCU reset ATF	
+Event log	22_31_51.477	MCU Reset -LOX	
+Event log	22_32_18.551	Update drive ATF	
+Event log	22_32_43.571	Motor On ATF	
+Event log	22_32_53.825	Motor off ATF	
+Event log	22_33_28.350	Update drive lox	
+Event log	22_33_37.353	Motor On lox	
+Event log	22_33_56.383	Motor Off lox	
+Event log	22_34_39.038	MCU Reset -LOX	
+Event log	22_54_38.746	N_EPV_174	
+Event log	22_54_39.971	N_EPV_178	
+Event log	23_00_28.256	W_EPV_304	
+Event log	23_00_51.501	W_EPV_304	
+Event log	23_01_07.579	W_EPV_304	
+Event log	23_02_12.747	START LOG	
+Event log	23_07_55.639	W_EPV_304	
+Event log	23_08_09.407	STOP LOG	
+Event log	23_15_09.216	START LOG	
+Event log	23_15_38.277	W_EPV_304	
+Event log	23_16_21.027	W_EPV_304	
+Event log	23_16_47.562	STOP LOG	
+Event log	23_23_30.717	W_EPV_304	
+Event log	23_23_41.705	W_EPV_304	
+Event log	23_24_35.150	START LOG	
+Event log	23_25_07.190	W_EPV_304	
+Event log	23_25_47.088	W_EPV_304	
+Event log	23_26_10.091	STOP LOG	
+Event log	23_33_47.585	Spark plug	
+Event log	23_33_59.095	Spark plug	
+Event log	23_34_07.359	DAQ SETTING	
+Event log	23_34_31.735	Spark plug	
+Event log	23_34_37.278	Spark plug	
+Event log	23_37_38.167	Spark plug	
+Event log	23_37_50.130	Spark plug	
+Event log	23_39_07.635	Spark plug	
+Event log	23_39_16.497	Spark plug	
+Event log	00_01_05.869	Log option	
+Event log	00_12_29.874	Motor On ATF	
+Event log	00_12_40.047	Motor off ATF	
+Event log	00_18_21.671	Update drive ATF	
+Event log	00_19_21.410	START LOG	
+Event log	00_19_27.313	Gate driver ATF	
+Event log	00_19_33.075	W_EPV_304	
+Event log	00_19_38.172	Motor On ATF	
+Event log	00_20_00.197	Motor off ATF	
+Event log	00_20_14.470	Gate driver ATF	
+Event log	00_20_22.318	W_EPV_304	
+Event log	00_20_27.974	STOP LOG	
+Event log	00_30_25.209	DAQ SETTING	
+Event log	00_33_57.485	DAQ SETTING	
+Event log	00_50_00.171	C&I A	
+Event log	00_50_02.470	C&I L	
+Event log	00_50_16.189	Connect Drive ATF	
+Event log	00_50_17.625	Connect Drive Lox	
+Event log	01_03_36.687	Spark plug	
+Event log	01_04_05.298	Spark plug	
+Event log	01_07_59.588	C&I A	
+Event log	01_08_17.051	Connect Drive ATF	
+Event log	01_10_08.193	Update drive ATF	
+Event log	01_10_34.593	MCU reset ATF	
+Event log	01_11_05.510	Update drive ATF	
+Event log	01_11_12.819	Motor On ATF	
+Event log	01_11_27.033	Motor off ATF	
+Event log	01_16_51.838	Update drive ATF	
+Event log	01_17_25.543	START LOG	
+Event log	01_17_30.805	Gate driver ATF	
+Event log	01_17_38.927	W_EPV_304	
+Event log	01_17_46.047	Motor On ATF	
+Event log	01_18_13.482	Motor off ATF	
+Event log	01_18_26.898	Gate driver ATF	
+Event log	01_18_33.367	W_EPV_304	
+Event log	01_18_37.628	STOP LOG	
+Event log	01_20_27.328	Connect Drive ATF	
+Event log	01_20_29.598	C&I A	
+Event log	01_23_08.046	MCU reset ATF	
+Event log	01_43_57.877	C&I A	
+Event log	01_44_18.640	Connect Drive ATF	
+Event log	01_45_09.596	MCU reset ATF	
+Event log	01_45_37.805	Connect Drive ATF	
+Event log	01_45_43.080	Connect Drive ATF	
+Event log	01_46_41.621	Update drive ATF	
+Event log	01_46_49.853	Motor On ATF	
+Event log	01_47_10.132	Motor off ATF	
+Event log	01_48_24.010	Update drive ATF	
+Event log	01_48_41.614	START LOG	
+Event log	01_48_47.525	Gate driver ATF	
+Event log	01_48_51.732	W_EPV_304	
+Event log	01_48_57.080	Motor On ATF	
+Event log	01_49_37.030	Motor off ATF	
+Event log	01_49_54.133	Gate driver ATF	
+Event log	01_49_59.451	W_EPV_304	
+Event log	01_50_04.681	STOP LOG	
+Event log	01_52_13.159	Update drive ATF	
+Event log	01_52_21.907	Motor On ATF	
+Event log	01_52_38.343	Motor off ATF	
+Event log	01_53_07.542	START LOG	
+Event log	01_53_16.822	Gate driver ATF	
+Event log	01_53_22.006	W_EPV_304	
+Event log	01_53_33.668	Motor On ATF	
+Event log	01_54_47.790	Motor off ATF	
+Event log	01_55_01.973	Gate driver ATF	
+Event log	01_55_07.483	W_EPV_304	
+Event log	01_55_11.005	STOP LOG	
+Event log	01_58_47.316	N_EPV_128	
+Event log	01_59_13.274	N_EPV_128	
+Event log	01_59_33.887	N_EPV_128	
+Event log	01_59_38.412	N_EPV_128	
+Event log	02_00_11.242	Connect Drive ATF	
+Event log	02_00_12.670	C&I A	
+Event log	02_02_43.478	N_EPV_190	
+Event log	02_04_38.403	N_EPV_190	
+Event log	02_05_43.686	N_EPV_125	
+Event log	02_05_56.014	N_EPV_125	
+Event log	02_06_06.616	N_EPV_138	
+Event log	02_06_11.254	N_EPV_138	
+Event log	02_06_22.253	N_EPV_128	
+Event log	02_06_32.350	N_EPV_128	
+Event log	02_32_04.770	C&I L	
+Event log	02_32_13.535	Connect Drive Lox	
+Event log	02_32_54.382	MCU reset ATF	
+Event log	02_33_25.202	Update drive lox	
+Event log	02_33_52.941	Update drive lox	
+Event log	02_34_15.382	Update drive lox	
+Event log	02_34_40.343	Connect Drive Lox	
+Event log	02_34_52.023	MCU Reset -LOX	
+Event log	02_34_55.691	Connect Drive Lox	
+Event log	02_35_33.350	Update drive lox	
+Event log	02_35_55.524	Motor On lox	
+Event log	02_36_09.952	Motor Off lox	
+Event log	02_37_41.595	Gate driver- LOX	
+Event log	02_37_41.604	Gate driver- LOX	
+Event log	02_37_41.611	Gate driver- LOX	
+Event log	02_37_41.624	Gate driver- LOX	
+Event log	02_38_02.578	Update drive lox	
+Event log	02_38_50.014	START LOG	
+Event log	02_38_53.697	Gate driver- LOX	
+Event log	02_39_07.234	Motor On lox	
+Event log	02_39_49.076	Motor Off lox	
+Event log	02_40_07.753	Gate driver- LOX	
+Event log	02_40_11.975	STOP LOG	
+Event log	02_41_27.609	Update drive lox	
+Event log	02_41_33.674	Motor On lox	
+Event log	02_41_57.522	Motor Off lox	
+Event log	02_50_01.917	START LOG	
+Event log	02_50_10.710	Gate driver- LOX	
+Event log	02_50_16.980	Motor On lox	
+Event log	02_50_57.145	Motor Off lox	
+Event log	02_51_14.236	Gate driver- LOX	
+Event log	02_51_19.062	STOP LOG	
+Event log	02_52_20.727	Update drive lox	
+Event log	02_52_39.835	START LOG	
+Event log	02_52_44.226	Gate driver- LOX	
+Event log	02_52_49.914	Motor On lox	
+Event log	02_54_14.624	Motor Off lox	
+Event log	02_54_27.682	Gate driver- LOX	
+Event log	02_54_31.591	STOP LOG	
+Event log	02_56_30.424	C&I A	
+Event log	02_56_34.111	Connect Drive ATF	
+Event log	02_57_09.111	MCU reset ATF	
+Event log	02_57_54.118	Connect Drive ATF	
+Event log	02_57_56.952	MCU reset ATF	
+Event log	02_58_00.197	Connect Drive ATF	
+Event log	02_58_34.142	Connect Drive ATF	
+Event log	02_59_14.237	C&I A	
+Event log	02_59_46.528	C&I A	
+Event log	02_59_55.388	Connect Drive ATF	
+Event log	03_00_33.189	MCU reset ATF	
+Event log	03_00_54.781	Connect Drive Lox	
+Event log	03_00_56.752	Connect Drive ATF	
+Event log	03_01_00.011	Connect Drive ATF	
+Event log	03_01_47.037	Connect Drive Lox	
+Event log	03_02_26.943	ADC reset ATF	
+Event log	03_02_29.988	MCU reset ATF	
+Event log	03_02_33.958	Connect Drive ATF	
+Event log	03_02_38.093	Connect Drive ATF	
+Event log	03_04_35.147	Connect Drive ATF	
+Event log	03_05_21.416	Connect Drive ATF	
+Event log	03_05_54.423	Connect Drive ATF	
+Event log	03_06_26.887	C&I A	
+Event log	03_06_29.769	Connect Drive Lox	
+Event log	03_06_31.034	C&I L	
+Event log	03_06_42.684	C&I A	
+Event log	03_06_54.378	C&I L	
+Event log	03_07_04.005	Connect Drive ATF	
+Event log	03_07_27.011	Connect Drive Lox	
+Event log	03_08_38.275	MCU Reset -LOX	
+Event log	03_08_44.435	Connect Drive Lox	
+Event log	03_08_49.481	Connect Drive Lox	
+Event log	03_11_22.074	Update drive ATF	
+Event log	03_11_24.775	Update drive lox	
+Event log	03_11_41.640	Update drive ATF	
+Event log	03_12_07.000	MCU reset ATF	
+Event log	03_12_11.524	Update drive ATF	
+Event log	03_12_29.188	Motor On lox	
+Event log	03_12_36.867	Motor On ATF	
+Event log	03_12_53.035	Motor Off lox	
+Event log	03_12_59.965	Motor off ATF	
+Event log	03_14_01.439	START LOG	
+Event log	03_14_04.582	Gate driver ATF	
+Event log	03_14_05.602	Gate driver- LOX	
+Event log	03_14_11.595	Motor On lox	
+Event log	03_14_14.699	Motor On ATF	
+Event log	03_14_49.512	Motor Off lox	
+Event log	03_14_52.231	Motor off ATF	
+Event log	03_15_05.990	Gate driver- LOX	
+Event log	03_15_07.098	Gate driver ATF	
+Event log	03_15_11.381	STOP LOG	
+Event log	03_17_20.862	Update drive ATF	
+Event log	03_17_24.334	Update drive lox	
+Event log	03_17_45.409	START LOG	
+Event log	03_17_49.779	Gate driver ATF	
+Event log	03_17_51.052	Gate driver- LOX	
+Event log	03_17_56.729	Motor On lox	
+Event log	03_17_59.137	Motor On ATF	
+Event log	03_18_37.299	Motor Off lox	
+Event log	03_18_40.180	Motor off ATF	
+Event log	03_18_54.833	Gate driver ATF	
+Event log	03_18_56.017	Gate driver- LOX	
+Event log	03_18_59.284	STOP LOG	
+Event log	03_20_58.969	Update drive ATF	
+Event log	03_21_02.103	Update drive lox	
+Event log	03_21_18.686	START LOG	
+Event log	03_21_22.417	Gate driver ATF	
+Event log	03_21_23.735	Gate driver- LOX	
+Event log	03_21_30.369	Motor On lox	
+Event log	03_21_34.026	Motor On ATF	
+Event log	03_22_16.044	Motor Off lox	
+Event log	03_22_21.734	Motor off ATF	
+Event log	03_22_41.155	Gate driver- LOX	
+Event log	03_22_42.355	Gate driver ATF	
+Event log	03_22_46.732	STOP LOG	
+Event log	03_24_46.218	Connect Drive Lox	
+Event log	03_24_47.655	Connect Drive ATF	
+Event log	03_24_49.388	C&I L	
+Event log	03_24_50.508	C&I A	
+Event log	03_38_02.778	STOP DAQ	
+Event log	03_38_04.862	Connect RT	

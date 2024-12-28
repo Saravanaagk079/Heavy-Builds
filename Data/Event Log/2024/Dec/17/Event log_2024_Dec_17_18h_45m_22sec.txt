@@ -1,0 +1,5 @@
+Event log	18_45_33.139	Connect RT	
+Event log	18_46_00.377	Connect RT	
+Event log	18_46_01.575	Connect RT	
+Event log	18_46_18.685	START DAQ	
+Event log	18_46_28.036	Connect RT	

@@ -1,0 +1,12 @@
+Event log	15_16_23.981	Connect RT	
+Event log	15_16_25.358	START DAQ	
+Event log	15_16_26.675	START LOG	
+Event log	15_16_36.094	Set	
+Event log	15_17_43.067	Set	
+Event log	15_17_43.775	Get Sequence 	
+Event log	15_17_46.131	Start or Revert Sequence	
+Event log	15_18_40.423	Hold CDT	
+Event log	15_18_41.333	Start or Revert Sequence	
+Event log	15_18_42.722	STOP LOG	
+Event log	15_18_43.299	STOP DAQ	
+Event log	15_18_46.345	Connect RT	

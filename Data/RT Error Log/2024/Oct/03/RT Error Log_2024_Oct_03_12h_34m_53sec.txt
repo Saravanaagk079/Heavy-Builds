@@ -1,0 +1,10 @@
+RT Error	12_35_21.580		
+RT Error	12_35_25.712	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440008<append>
+<B>Task Name: </B>AI_C
+RT Error	12_35_25.733		
+RT Error	12_38_38.079	-200088	Error -200088 Occurred at  DAQmx Stop Task.vi:3590007<append>
+
+RT Error	12_38_38.079		
+RT Error	12_38_38.704	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440008<append>
+<B>Task Name: </B>AI_C
+RT Error	12_38_38.705		

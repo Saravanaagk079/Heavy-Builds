@@ -1,0 +1,16 @@
+Sequence,Intermediate Abort ,,Safety Abort,,Other,,,,,,
+,Sequence Name: AB1,,,,,,,,,,
+,No.of Sensors: 0,,,No.of Valves: 5,,,,,,,
+Sr. No.,Time CDT(ms),Component ID,Data Type,Condition,Range/Position,No of Samples for Pass,Event Duration(ms),Continuous /Cumulative,Expected Delay(ms),Failure Case Sequence,Current Sequence
+1,,LOX_Motor,Drive,,OFF,,,,50,,A3
+2,,ATF_Motor,Drive,,OFF,,,,50,,A3
+3,,C_EPV_13,DO,,Close,,,,50,,A3
+4,,F_EPV_45,DO,,Close,,,,50,,A3
+5,,C_EPV_14,DO,,Open,,,,50,,A3
+6,,C_EPV_13,DO,,Open,,,,50,,A3
+7,,N_EPV_128,DO,,Open,,,,50,,A3
+8,,N_EPV_174,DO,,Open,,,,10000,,A3
+9,,C_EPV_11,DO,,Close,,,,50,,A3
+10,,F_EPV_41,DO,,Close,,,,50,,A3
+11,,N_EPV_128,DO,,Close,,,,50,,A3
+12,,N_EPV_174,DO,,Close,,,,50,,A3

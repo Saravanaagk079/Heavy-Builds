@@ -1,0 +1,5 @@
+RT Error	13_40_26.693	-314106	Error -314106 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	13_40_26.694	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	13_40_26.712	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	13_40_26.713	-314220	Error -314220 Occurred at  Read Single Element from Stream in SeCrTs-UI Commands_R.vi->SeCrTs-RT_Main.vi
+RT Error	13_40_26.733		

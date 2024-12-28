@@ -1,0 +1,4 @@
+RT Error	19_44_19.116		
+RT Error	19_46_23.504	-200088	Error -200088 Occurred at  SeCrTs-AO_Write.vi<append>
+
+RT Error	19_46_23.515		

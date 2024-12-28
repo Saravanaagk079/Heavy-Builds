@@ -1,0 +1,11 @@
+Event log	19_45_10.399	Connect RT	
+Event log	19_45_20.120	Connect RT	
+Event log	19_45_24.123	Enable ip	
+Event log	19_45_29.683	IP ADDRESS	
+Event log	19_45_30.943	Connect RT	
+Event log	19_45_35.285	Connect RT	
+Event log	19_45_40.989	START DAQ	
+Event log	19_45_43.936	START LOG	
+Event log	19_45_47.883	STOP LOG	
+Event log	19_45_49.088	START LOG	
+Event log	19_45_52.478	STOP LOG	

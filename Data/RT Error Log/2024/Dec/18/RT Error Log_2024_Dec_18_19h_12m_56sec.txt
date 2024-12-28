@@ -1,0 +1,18 @@
+RT Error	19_13_13.280	-314106	Error -314106 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	19_13_13.280	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	19_13_13.301		
+RT Error	19_30_37.591	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	19_30_37.593	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	19_30_37.602	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	19_30_37.625		
+RT Error	19_33_04.262	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	19_33_04.272		
+RT Error	19_33_07.001	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	19_33_07.022		
+RT Error	19_34_17.061	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	19_34_17.062		
+RT Error	19_34_21.011	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	19_34_21.031		
+RT Error	19_42_46.553	-314106	Error -314106 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	19_42_46.560	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	19_42_46.580		

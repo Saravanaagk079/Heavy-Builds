@@ -1,0 +1,2 @@
+Event log	12_33_39.196	Connect RT	
+Event log	12_33_47.671	RT Stop	

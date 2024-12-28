@@ -1,0 +1,4 @@
+Event log	18_47_36.745	Connect RT	
+Event log	18_48_03.623	Connect RT	
+Event log	18_48_32.472	Connect RT	
+Event log	18_48_39.998	Connect RT	

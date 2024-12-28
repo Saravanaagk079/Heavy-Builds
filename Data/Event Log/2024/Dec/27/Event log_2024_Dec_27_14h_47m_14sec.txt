@@ -1,0 +1,12 @@
+Event log	14_47_39.499	Connect RT	
+Event log	14_47_42.192	START DAQ	
+Event log	14_47_59.018	START LOG	
+Event log	14_48_07.674	STOP LOG	
+Event log	14_48_16.723	START LOG	
+Event log	14_50_21.979	C&I A	
+Event log	14_50_26.739	Connect Drive ATF	
+Event log	14_54_22.738	Connect Drive ATF	
+Event log	14_54_24.473	C&I A	
+Event log	14_54_33.860	STOP LOG	
+Event log	14_54_34.870	STOP DAQ	
+Event log	14_54_36.987	Connect RT	

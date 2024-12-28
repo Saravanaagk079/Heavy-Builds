@@ -1,0 +1,7 @@
+Event log	13_07_36.907	Connect RT	
+Event log	13_07_38.985	START DAQ	
+Event log	13_08_24.465	START LOG	
+Event log	13_08_55.959	START LOG	
+Event log	13_12_36.462	STOP LOG	
+Event log	13_12_38.069	STOP DAQ	
+Event log	13_12_39.446	RT Stop	

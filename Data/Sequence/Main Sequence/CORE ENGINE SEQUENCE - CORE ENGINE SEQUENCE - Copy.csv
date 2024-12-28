@@ -1,0 +1,44 @@
+Sequence,Intermediate Abort,Yes,Safety Abort,NA,Other,NA,,,,,
+,Sequence Name:,ECS 1,,,,,,,,,
+,No.of Sensors:,,,No.of Valves:,,,,,,,
+Sr. No.,Time CDT(s),Component ID,Data Type,Condition,Range/Position,No of Samples for Pass,Event Duration(S),Continuous /Cumulative,Expected Delay(ms),Failure Case Sequence,Current Sequence
+1,-10,N_EPV_138,DO,,Close,,,,-,,Engine sequence
+2,-10,N_EPV_185,DO,,Close,,,,-,,Engine sequence
+3,0,ATF_Motor,Drive,,ON,,,,-,,Engine sequence
+4,0.2,LOX_Motor,Drive,,ON,,,,-,,Engine sequence
+5,2.3,Spark plug,DO,,Open,,,,-,,Engine sequence
+6,3.3,G_EPV_70,DO,,Open,,,,-,,Engine sequence
+7,3.8,G_PT_74,AI,<,15,5,0.02,Continuous,-,A1,Engine sequence
+8,3.8,G_PT_74,AI,>,10,5,0.02,Continuous,-,A1,Engine sequence
+9,4.2,M_EPV_90,DO,,Open,,,,-,,Engine sequence
+10,4.7,I_PT_1,AI,<,5,5,0.02,Continuous,-,A2,Engine sequence
+11,4.7,I_PT_1,AI,>,3,5,0.02,Continuous,-,A2,Engine sequence
+12,4.7,I_PT_2,AI,<,5,5,0.02,Continuous,-,A2,Engine sequence
+13,4.7,I_PT_2,AI,>,3,5,0.02,Continuous,-,A2,Engine sequence
+14,5.1,F_PT_DC,AI,<,15,5,0.02,Continuous,-,A2,Engine sequence
+15,5.1,F_PT_DC,AI,>,12,5,0.02,Continuous,-,A2,Engine sequence
+16,5.2,N_EPV_174,DO,,Close,,,,-,,Engine sequence
+17,5.3,F_EPV_45,DO,,Open,,,,-,,Engine sequence
+18,5.4,I_PT_1,AI,<,5,5,0.02,Continuous,-,A2,Engine sequence
+19,5.4,I_PT_1,AI,>,3,5,0.02,Continuous,-,A2,Engine sequence
+20,5.7,F_PT_47,AI,<,30,9,0.02,Continuous,-,A2,Engine sequence
+21,5.7,F_PT_47,AI,>,10,9,0.02,Continuous,-,A2,Engine sequence
+22,5.8,C_PT_DC,AI,<,15,9,0.02,Continuous,-,A2,Engine sequence
+23,5.8,C_PT_DC,AI,>,12,9,0.02,Continuous,-,A2,Engine sequence
+24,5.9,N_EPV_128,DO,,Close,,,,-,,Engine sequence
+25,6,C_EPV_13,DO,,Open,,,,-,,Engine sequence
+26,6.5,C_PT_18,AI,>,10,9,0.02,Continuous,-,A2,Engine sequence
+27,6.6,E_PT_P1,AI,<,6,9,0.02,Continuous,-,A2,Engine sequence
+28,6.6,E_PT_P1,AI,>,4,9,0.02,Continuous,-,A2,Engine sequence
+29,9.1,G_EPV_70,DO,,Close,,,,-,,Engine sequence
+30,9.6,M_EPV_90,DO,,Close,,,,-,,Engine sequence
+31,12.1,LOX_Motor,Drive,,OFF,,,,-,,Engine sequence
+32,13.2,ATF_Motor,Drive,,OFF,,,,-,,Engine sequence
+33,18.3,C_EPV_13,DO,,Close,,,,-,,Engine sequence
+34,18.8,C_EPV_13 HSS,DI,,Close,9,0.02,Continuous,-,A3,Engine sequence
+35,19.3,F_EPV_45,DO,,Close,,,,-,,Engine sequence
+36,19.8,F_EPV_45 HSS,DI,,Close,9,0.02,Continuous,-,A3,Engine sequence
+37,23.3,C_EPV_11,DO,,Close,,,,-,,Engine sequence
+38,24.3,F_EPV_41,DO,,Close,,,,-,,Engine sequence
+39,25.3,C_EPV_14,DO,,Open,,,,-,,Engine sequence
+40,26.3,F_EPV_43,DO,,Close,,,,-,,Engine sequence

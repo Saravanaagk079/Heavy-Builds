@@ -1,0 +1,9 @@
+RT Error	19_32_31.964	-314106	Error -314106 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	19_32_31.978	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	19_32_31.989		
+RT Error	19_34_44.051	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220005<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	19_34_44.051		

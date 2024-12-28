@@ -1,0 +1,100 @@
+Event log	18_32_40.801	Connect RT	
+Event log	18_32_41.566	Connect RT	
+Event log	18_33_13.602	Connect RT	
+Event log	18_33_16.020	START DAQ	
+Event log	18_33_25.105	START LOG	
+Event log	18_33_48.535	Set	
+Event log	18_33_49.774	Hold CDT	
+Event log	18_33_50.247	Hold CDT	
+Event log	18_34_10.390	Get Sequence 	
+Event log	18_34_12.995	Start or Revert Sequence	
+Event log	18_34_54.953	Start or Revert Sequence	
+Event log	18_34_55.900	Hold CDT	
+Event log	18_34_57.273	Hold CDT	
+Event log	18_35_04.924	Set	
+Event log	18_35_06.975	Start or Revert Sequence	
+Event log	18_35_08.222	Start or Revert Sequence	
+Event log	18_35_08.815	Get Sequence 	
+Event log	18_35_11.179	Start or Revert Sequence	
+Event log	18_36_52.081	Hold CDT	
+Event log	18_36_52.547	Hold CDT	
+Event log	18_36_53.200	Start or Revert Sequence	
+Event log	18_37_05.013	Set	
+Event log	18_37_05.889	Start or Revert Sequence	
+Event log	18_49_10.849	STOP LOG	
+Event log	18_49_11.635	STOP DAQ	
+Event log	18_49_12.241	Connect RT	
+Event log	18_49_17.389	Connect RT	
+Event log	18_49_19.359	START DAQ	
+Event log	18_49_20.782	START LOG	
+Event log	18_50_16.329	Hold CDT	
+Event log	18_50_16.897	Start or Revert Sequence	
+Event log	18_50_17.692	STOP LOG	
+Event log	18_50_18.279	STOP DAQ	
+Event log	18_50_18.772	START DAQ	
+Event log	18_50_19.794	STOP DAQ	
+Event log	18_50_20.314	Connect RT	
+Event log	18_50_21.636	Connect RT	
+Event log	18_50_23.166	START DAQ	
+Event log	18_50_47.296	START LOG	
+Event log	18_51_02.652	Set	
+Event log	18_51_06.904	Start or Revert Sequence	
+Event log	18_51_21.315	Start or Revert Sequence	
+Event log	18_51_29.187	Get Sequence 	
+Event log	18_51_31.456	Set	
+Event log	18_51_32.428	Start or Revert Sequence	
+Event log	18_52_24.247	Hold CDT	
+Event log	18_52_27.591	Hold CDT	
+Event log	18_52_28.194	Start or Revert Sequence	
+Event log	18_52_32.431	STOP LOG	
+Event log	18_52_33.015	STOP DAQ	
+Event log	18_52_33.304	Connect RT	
+Event log	18_58_04.620	Connect RT	
+Event log	18_58_06.815	START DAQ	
+Event log	18_58_20.922	START LOG	
+Event log	18_58_43.678	Set	
+Event log	18_59_17.115	Set	
+Event log	18_59_17.853	Get Sequence 	
+Event log	18_59_21.402	Start or Revert Sequence	
+Event log	19_00_23.495	Hold CDT	
+Event log	19_00_23.993	Start or Revert Sequence	
+Event log	19_00_24.794	Hold CDT	
+Event log	19_00_25.572	STOP LOG	
+Event log	19_00_27.505	STOP DAQ	
+Event log	19_00_28.053	Connect RT	
+Event log	19_00_54.126	Connect RT	
+Event log	19_00_55.556	START DAQ	
+Event log	19_00_56.926	START LOG	
+Event log	19_01_00.137	STOP LOG	
+Event log	19_01_01.364	Log option	
+Event log	19_01_03.410	START LOG	
+Event log	19_01_40.504	C_EPV_6	
+Event log	19_01_41.153	C_EPV_6	
+Event log	19_01_42.227	C_EPV_6	
+Event log	19_01_43.421	C_EPV_6	
+Event log	19_02_02.854	STOP LOG	
+Event log	19_02_03.334	STOP DAQ	
+Event log	19_02_03.728	Connect RT	
+Event log	19_10_11.359	Connect RT	
+Event log	19_10_12.914	START DAQ	
+Event log	19_10_32.293	START LOG	
+Event log	19_10_50.403	Set	
+Event log	19_10_53.816	Get Sequence 	
+Event log	19_10_55.869	Start or Revert Sequence	
+Event log	19_11_22.234	Get Sequence 	
+Event log	19_11_29.120	STOP LOG	
+Event log	19_11_29.507	STOP DAQ	
+Event log	19_11_30.050	Connect RT	
+Event log	19_11_47.833	Connect RT	
+Event log	19_11_50.303	START DAQ	
+Event log	19_11_55.976	START LOG	
+Event log	19_12_12.581	Set	
+Event log	19_12_13.088	Start or Revert Sequence	
+Event log	19_12_14.278	Get Sequence 	
+Event log	19_12_22.201	Get Sequence 	
+Event log	19_12_24.262	Start or Revert Sequence	
+Event log	19_13_30.281	Start or Revert Sequence	
+Event log	19_14_43.427	Hold CDT	
+Event log	19_15_08.482	STOP LOG	
+Event log	19_15_09.104	STOP DAQ	
+Event log	19_15_09.921	Connect RT	

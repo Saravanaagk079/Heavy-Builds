@@ -1,0 +1,37 @@
+Event log	16_58_48.190	Enable/Disable IP	
+Event log	16_58_53.920	IP ADDRESS	
+Event log	16_58_53.923	Enable/Disable IP	
+Event log	16_58_54.962	Connect RT	
+Event log	16_58_57.145	START DAQ	
+Event log	16_59_48.839	START LOG	
+Event log	16_59_56.091	Log option	
+Event log	16_59_56.356	START LOG	
+Event log	17_01_03.054	C_EPV_78	
+Event log	17_01_04.358	C_EPV_78	
+Event log	17_01_05.141	C_EPV_78	
+Event log	17_01_05.919	C_EPV_78	
+Event log	17_01_06.731	C_EPV_78	
+Event log	17_01_07.504	C_EPV_78	
+Event log	17_01_08.414	C_EPV_78	
+Event log	17_01_09.052	C_EPV_78	
+Event log	17_01_09.724	C_EPV_78	
+Event log	17_01_10.397	C_EPV_78	
+Event log	17_01_14.445	C_EPV_75	
+Event log	17_01_15.130	C_EPV_75	
+Event log	17_01_15.832	C_EPV_75	
+Event log	17_01_16.510	C_EPV_75	
+Event log	17_01_20.471	N_EPV_190	
+Event log	17_01_21.698	N_EPV_190	
+Event log	17_01_22.227	N_EPV_190	
+Event log	17_01_22.721	N_EPV_190	
+Event log	17_01_23.169	N_EPV_190	
+Event log	17_01_23.598	N_EPV_190	
+Event log	17_01_24.065	N_EPV_190	
+Event log	17_01_24.687	N_EPV_190	
+Event log	17_01_25.140	N_EPV_190	
+Event log	17_01_25.876	N_EPV_190	
+Event log	17_01_26.451	N_EPV_190	
+Event log	17_01_27.078	N_EPV_190	
+Event log	17_03_33.448	STOP LOG	
+Event log	17_03_36.007	STOP DAQ	
+Event log	17_03_37.142	RT Stop	

@@ -1,0 +1,115 @@
+Event log	11_13_15.401	Connect RT	
+Event log	11_13_17.620	START DAQ	
+Event log	11_13_35.292	START LOG	
+Event log	11_13_48.261	Set	
+Event log	11_14_13.474	Get Sequence 	
+Event log	11_14_16.600	Start or Revert Sequence	
+Event log	11_14_31.812	Hold CDT	
+Event log	11_14_35.057	Start or Revert Sequence	
+Event log	11_14_54.712	Set	
+Event log	11_14_55.868	Start or Revert Sequence	
+Event log	11_16_58.483	Hold CDT	
+Event log	11_16_59.516	Start or Revert Sequence	
+Event log	11_17_08.362	Set	
+Event log	11_17_09.506	Start or Revert Sequence	
+Event log	11_18_19.188	Hold CDT	
+Event log	11_18_20.377	Start or Revert Sequence	
+Event log	11_19_06.152	STOP LOG	
+Event log	11_19_07.447	STOP DAQ	
+Event log	11_19_11.838	Safe State	
+Event log	11_19_13.314	Safe State	
+Event log	11_19_25.592	Safe State	
+Event log	11_19_27.849	Safe State	
+Event log	11_19_28.132	Safe State	
+Event log	11_19_28.324	Safe State	
+Event log	11_19_29.038	DAQ SETTING	
+Event log	11_19_33.902	Safe State	
+Event log	11_19_34.218	Safe State	
+Event log	11_19_38.692	Safe State	
+Event log	11_19_41.202	DAQ SETTING	
+Event log	11_19_46.460	START DAQ	
+Event log	11_19_50.819	START DAQ	
+Event log	11_20_04.740	START DAQ	
+Event log	11_20_29.004	Safe State	
+Event log	11_20_30.479	Safe State	
+Event log	11_20_31.232	Safe State	
+Event log	11_20_46.996	START DAQ	
+Event log	11_20_51.048	Safe State	
+Event log	11_21_13.832	DAQ SETTING	
+Event log	11_25_00.036	START DAQ	
+Event log	11_25_13.336	STOP DAQ	
+Event log	11_25_16.882	START DAQ	
+Event log	11_25_29.143	START LOG	
+Event log	11_25_59.357	STOP LOG	
+Event log	11_26_01.726	STOP DAQ	
+Event log	11_26_04.534	DAQ SETTING	
+Event log	11_26_43.183	START DAQ	
+Event log	11_26_57.547	START LOG	
+Event log	11_27_17.849	C_EPV_76	
+Event log	11_27_20.491	C_EPV_76	
+Event log	11_27_21.662	C_EPV_79	
+Event log	11_27_22.872	C_EPV_79	
+Event log	11_27_24.001	N_EPV_108	
+Event log	11_27_25.018	N_EPV_108	
+Event log	11_27_25.794	N_EPV_108	
+Event log	11_27_27.121	N_EPV_108	
+Event log	11_27_29.703	W_EPV_304	
+Event log	11_27_30.817	W_EPV_304	
+Event log	11_27_31.825	W_EPV_304	
+Event log	11_27_32.604	W_EPV_304	
+Event log	11_27_36.711	Safe State	
+Event log	11_27_39.194	C_EPV_14	
+Event log	11_27_40.940	Safe State	
+Event log	11_27_52.252	Set	
+Event log	11_27_56.588	Get Sequence 	
+Event log	11_28_01.353	Start or Revert Sequence	
+Event log	11_29_07.483	Start or Revert Sequence	
+Event log	11_29_20.478	Set	
+Event log	11_29_21.547	Start or Revert Sequence	
+Event log	11_29_47.013	Safe State	
+Event log	11_29_48.124	Safe State	
+Event log	11_29_48.356	Safe State	
+Event log	11_29_49.945	Start or Revert Sequence	
+Event log	11_30_02.628	Set	
+Event log	11_30_12.178	Set	
+Event log	11_30_13.364	Start or Revert Sequence	
+Event log	11_30_31.092	Start or Revert Sequence	
+Event log	11_30_40.833	Set	
+Event log	11_30_41.746	Start or Revert Sequence	
+Event log	11_31_15.924	Start or Revert Sequence	
+Event log	11_31_25.827	Get Sequence 	
+Event log	11_31_36.945	Set	
+Event log	11_31_38.117	Start or Revert Sequence	
+Event log	11_32_43.825	Hold CDT	
+Event log	11_32_45.084	Start or Revert Sequence	
+Event log	11_33_00.124	Set	
+Event log	11_33_01.324	Start or Revert Sequence	
+Event log	11_34_06.700	Start or Revert Sequence	
+Event log	11_34_08.261	Hold CDT	
+Event log	11_34_15.377	Set	
+Event log	11_34_26.104	Set	
+Event log	11_34_27.734	Start or Revert Sequence	
+Event log	11_37_05.703	Safe State	
+Event log	11_41_55.319	Hold CDT	
+Event log	11_41_56.351	Start or Revert Sequence	
+Event log	11_42_01.652	Get Sequence 	
+Event log	11_42_05.454	Start or Revert Sequence	
+Event log	11_42_07.865	Start or Revert Sequence	
+Event log	11_42_17.278	Set	
+Event log	11_42_18.493	Start or Revert Sequence	
+Event log	11_42_31.246	Start or Revert Sequence	
+Event log	11_42_32.079	Hold CDT	
+Event log	11_44_42.484	Set	
+Event log	11_44_43.699	Start or Revert Sequence	
+Event log	11_44_45.412	Start or Revert Sequence	
+Event log	11_44_55.860	Set	
+Event log	11_44_57.218	Start or Revert Sequence	
+Event log	11_45_30.208	Safe State	
+Event log	11_45_32.705	Safe State	
+Event log	11_45_40.464	Hold CDT	
+Event log	11_45_41.413	Start or Revert Sequence	
+Event log	11_45_42.724	STOP LOG	
+Event log	11_45_43.907	STOP DAQ	
+Event log	11_46_44.757	START DAQ	
+Event log	11_51_10.773	STOP DAQ	
+Event log	11_51_11.508	Connect RT	

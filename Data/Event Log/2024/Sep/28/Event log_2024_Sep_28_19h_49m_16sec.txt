@@ -1,0 +1,40 @@
+Event log	19_49_30.887	Connect RT	
+Event log	19_49_32.955	START DAQ	
+Event log	19_49_45.425	START LOG	
+Event log	19_51_30.006	STOP LOG	
+Event log	19_52_21.150	START LOG	
+Event log	19_56_35.221	STOP LOG	
+Event log	19_57_01.395	START LOG	
+Event log	19_59_48.403	STOP LOG	
+Event log	19_59_52.516	STOP DAQ	
+Event log	19_59_54.795	RT Stop	
+Event log	20_00_38.783	Connect RT	
+Event log	20_00_43.978	START DAQ	
+Event log	20_00_50.721	START LOG	
+Event log	20_02_40.584	STOP LOG	
+Event log	20_03_09.637	START LOG	
+Event log	20_03_16.146	STOP LOG	
+Event log	20_03_28.258	STOP DAQ	
+Event log	20_03_29.674	RT Stop	
+Event log	20_04_20.146	Connect RT	
+Event log	20_04_24.037	START DAQ	
+Event log	20_04_48.815	START LOG	
+Event log	20_06_10.707	STOP LOG	
+Event log	20_07_17.186	START LOG	
+Event log	20_07_20.575	C_EPV_78	
+Event log	20_07_21.750	C_EPV_78	
+Event log	20_07_22.956	C_EPV_78	
+Event log	20_07_24.088	C_EPV_78	
+Event log	20_07_29.475	C_EPV_78	
+Event log	20_07_30.386	C_EPV_78	
+Event log	20_07_31.361	C_EPV_78	
+Event log	20_07_32.415	C_EPV_78	
+Event log	20_07_33.428	C_EPV_78	
+Event log	20_07_34.278	C_EPV_78	
+Event log	20_07_35.581	C_EPV_78	
+Event log	20_07_36.645	C_EPV_78	
+Event log	20_07_37.893	C_EPV_78	
+Event log	20_07_38.965	C_EPV_78	
+Event log	20_10_26.405	STOP LOG	
+Event log	20_10_27.705	STOP DAQ	
+Event log	20_10_30.613	RT Stop	

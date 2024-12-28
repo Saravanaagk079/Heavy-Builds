@@ -1,0 +1,13 @@
+Event log	19_57_35.306	Connect RT	
+Event log	19_57_36.731	START DAQ	
+Event log	19_57_43.273	START DAQ	
+Event log	19_57_44.973	START LOG	
+Event log	19_57_56.662	Set	
+Event log	19_58_07.213	Get Sequence 	
+Event log	19_58_17.931	Set	
+Event log	19_58_19.804	Get Sequence 	
+Event log	19_58_21.571	Start or Revert Sequence	
+Event log	19_58_31.899	Start or Revert Sequence	
+Event log	19_58_34.077	STOP LOG	
+Event log	19_58_34.699	STOP DAQ	
+Event log	19_58_35.058	Connect RT	

@@ -1,0 +1,68 @@
+Sequence,Intermediate Abort,NA,Safety Abort,NA,Other,NA,,,,,
+,Sequence Name: ,PGSQ_T1,,,,,,,,,
+,No.of Sensors:,,,No.of Valves:,,,,,,,
+Sr. No.,Time CDT(s),Component ID,Data Type,Condition,Range/Position,No of Samples for Pass,Event Duration(S),Continuous /Cumulative,Expected Delay(ms),Failure Case Sequence,Current Sequence
+1,-12.23,N_EPV_128 HSS,DI,,Close,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+2,-12.22,N_EPV_175 HSS,DI,,Close,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+3,-12.21,C_EPV_6,DO,,Close,,,,-,,Purge sequence
+4,-12.11,C_EPV_6 HSS,DI,,Close,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+5,-12.11,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+6,-12.1,N_EPV_125,DO,,Open,,,,-,,Purge sequence
+7,-12.09,N_EPV_125 HSS,DI,,Open,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+8,-12.09,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+9,-11.99,N_EPV_72,DO,,Open,,,,-,,Purge sequence
+10,-11.889,N_EPV_72 HSS,DI,,Open,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+11,-11.889,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+12,-11.88,C_EPV_11,DO,,Open,,,,-,,Purge sequence
+13,-11.779,C_EPV_11 HSS,DI,,Open,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+14,-11.779,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+15,-11.77,F_EPV_41,DO,,Open,,,,-,,Purge sequence
+16,-11.669,F_EPV_41 HSS,DI,,Open,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+17,-11.669,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+18,-11.66,C_EPV_14,DO,,Close,,,,-,,Purge sequence
+19,-11.559,C_EPV_14 HSS,DI,,Close,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+20,-11.559,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+21,-11.55,F_EPV_43,DO,,Close,,,,-,,Purge sequence
+22,-11.449,F_EPV_43 HSS,DI,,Close,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+23,-11.449,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+24,-11.44,F_EPV_45,DO,,Close,,,,-,,Purge sequence
+25,-11.339,F_EPV_45 HSS,DI,,Close,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+26,-11.339,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+27,-11.33,C_EPV_13,DO,,Close,,,,-,,Purge sequence
+28,-11.229,C_EPV_13 HSS,DI,,Close,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+29,-11.229,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+30,-11.22,N_EPV_138,DO,,Open,,,,-,,Purge sequence
+31,-11.119,N_EPV_138 HSS,DI,,Open,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+32,-11.119,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+33,-11.11,N_EPV_185,DO,,Open,,,,-,,Purge sequence
+34,-11.009,N_EPV_185 HSS,DI,,Open,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+35,-11.009,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+36,-11,N_EPV_138,DO,,Close,,,,-,,Purge sequence
+37,-0.999,N_EPV_138 HSS,DI,,Close,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+38,-0.999,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+39,-0.99,N_EPV_185,DO,,Close,,,,-,,Purge sequence
+40,-0.889,N_EPV_185 HSS,DI,,Open,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+41,-0.889,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+42,-0.88,C_EPV_125,DO,,Close,,,,-,,Purge sequence
+43,-0.779,C_EPV_125 HSS,DI,,Close,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+44,-0.779,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+45,-0.77,N_EPV_72,DO,,Close,,,,-,,Purge sequence
+46,-0.669,N_EPV_72 HSS,DI,,Close,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+47,-0.669,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+48,-0.66,C_EPV_11,DO,,Close,,,,-,,Purge sequence
+49,-0.559,C_EPV_11 HSS,DI,,Close,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+50,-0.559,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+51,-0.55,F_EPV_41,DO,,Close,,,,-,,Purge sequence
+52,-0.449,F_EPV_41 HSS,DI,,Close,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+53,-0.449,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+54,-0.44,C_EPV_14,DO,,Open,,,,-,,Purge sequence
+55,-0.339,C_EPV_14 HSS,DI,,Open,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+56,-0.339,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+57,-0.33,F_EPV_43,DO,,Open,,,,-,,Purge sequence
+58,-0.229,F_EPV_43 HSS,DI,,Open,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+59,-0.229,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+60,-0.22,F_EPV_45,DO,,Open,,,,-,,Purge sequence
+61,-0.119,F_EPV_45 HSS,DI,,Open,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence
+62,-0.119,N_PT_110,AI,<,7,5,0.007,Continuous,-,PURGE ABORT AI,Purge sequence
+63,-0.11,C_EPV_13,DO,,Open,,,,-,,Purge sequence
+64,-0.009,C_EPV_13 HSS,DI,,Open,1,0.007,Continuous,-,PURGE ABORT DI,Purge sequence

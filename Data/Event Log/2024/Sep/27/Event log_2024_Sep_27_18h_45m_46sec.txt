@@ -1,0 +1,33 @@
+Event log	18_46_07.177	Connect RT	
+Event log	18_46_10.271	Enable/Disable IP	
+Event log	18_46_19.288	IP ADDRESS	
+Event log	18_46_19.302	Enable/Disable IP	
+Event log	18_46_20.800	Connect RT	
+Event log	18_46_27.353	START DAQ	
+Event log	18_50_30.613	START LOG	
+Event log	18_53_02.206	STOP LOG	
+Event log	18_53_06.213	START LOG	
+Event log	18_56_21.245	STOP LOG	
+Event log	18_56_27.300	START LOG	
+Event log	18_59_46.631	STOP LOG	
+Event log	18_59_50.941	Log option	
+Event log	18_59_53.432	START LOG	
+Event log	19_00_03.265	STOP LOG	
+Event log	19_00_21.888	START LOG	
+Event log	19_00_51.799	STOP LOG	
+Event log	19_00_55.904	Log option	
+Event log	19_01_04.355	Log option	
+Event log	19_01_10.052	START LOG	
+Event log	19_04_10.077	C_EPV_78	
+Event log	19_04_12.318	C_EPV_78	
+Event log	19_04_12.835	C_EPV_78	
+Event log	19_04_13.069	C_EPV_78	
+Event log	19_04_13.286	C_EPV_78	
+Event log	19_04_13.479	C_EPV_78	
+Event log	19_04_13.672	C_EPV_78	
+Event log	19_04_13.880	C_EPV_78	
+Event log	19_04_28.383	C_EPV_78	
+Event log	19_04_46.735	C_EPV_78	
+Event log	19_04_48.291	STOP LOG	
+Event log	19_04_50.464	STOP DAQ	
+Event log	19_04_52.179	RT Stop	

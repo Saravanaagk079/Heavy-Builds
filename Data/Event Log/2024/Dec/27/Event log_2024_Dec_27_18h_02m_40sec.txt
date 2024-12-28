@@ -1,0 +1,18 @@
+Event log	18_02_56.405	Connect RT	
+Event log	18_03_19.871	START DAQ	
+Event log	18_03_20.873	N_EPV_185	
+Event log	18_03_22.711	N_EPV_138	
+Event log	18_03_55.336	Gate driver- LOX	
+Event log	18_04_13.074	C&I L	
+Event log	18_04_21.788	C&I L	
+Event log	18_05_26.193	Gate driver- LOX	
+Event log	18_05_44.216	Gate driver- LOX	
+Event log	18_05_55.534	C&I L	
+Event log	18_07_18.758	C&I L	
+Event log	18_07_26.815	Gate driver- LOX	
+Event log	18_07_39.201	Gate driver- LOX	
+Event log	18_07_43.924	C&I L	
+Event log	18_07_51.545	Gate driver- LOX	
+Event log	18_07_55.989	C&I L	
+Event log	18_07_59.491	STOP DAQ	
+Event log	18_08_01.050	Connect RT	

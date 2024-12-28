@@ -1,0 +1,7 @@
+Event log	17_12_51.144	Connect RT	
+Event log	17_12_54.455	Connect RT	
+Event log	17_12_55.328	Enable/Disable IP	
+Event log	17_13_01.515	IP ADDRESS	
+Event log	17_13_01.734	Connect RT	
+Event log	17_13_03.589	START DAQ	
+Event log	17_13_10.167	STOP DAQ	

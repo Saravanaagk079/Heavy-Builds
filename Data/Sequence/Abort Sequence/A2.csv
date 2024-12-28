@@ -1,0 +1,23 @@
+Sequence,Intermediate Abort ,,Safety Abort,,Other,,,,,,
+,Sequence Name: AB1,,,,,,,,,,
+,No.of Sensors: 0,,,No.of Valves: 5,,,,,,,
+Sr. No.,Time CDT(ms),Component ID,Data Type,Condition,Range/Position,No of Samples for Pass,Event Duration(ms),Continuous /Cumulative,Expected Delay(ms),Failure Case Sequence,Current Sequence
+1,,C_EPV_13,DO,,Close,,,,50,,A2
+2,,F_EPV_45,DO,,Close,,,,50,,A2
+3,,LOX_Motor,Drive,,OFF,,,,50,,A2
+4,,ATF_Motor,Drive,,OFF,,,,50,,A2
+5,,C_EPV_14,DO,,Open,,,,50,,A2
+6,,C_EPV_13,DO,,Open,,,,50,,A2
+7,,C_EPV_11,DO,,Close,,,,50,,A2
+8,,F_EPV_41,DO,,Close,,,,50,,A2
+9,,Spark plug,DO,,Close,,,,50,,A2
+10,,G_EPV_70,DO,,Close,,,,50,,A2
+11,,M_EPV_90,DO,,Close,,,,50,,A2
+12,,N_EPV_185,DO,,Open,,,,50,,A2
+13,,N_EPV_138,DO,,Open,,,,50,,A2
+14,,N_EPV_128,DO,,Open,,,,50,,A2
+15,,N_EPV_174,DO,,Open,,,,10000,,A2
+16,,N_EPV_185,DO,,Close,,,,50,,A2
+17,,N_EPV_138,DO,,Close,,,,50,,A2
+18,,N_EPV_128,DO,,Close,,,,50,,A2
+19,,N_EPV_174,DO,,Close,,,,50,,A2

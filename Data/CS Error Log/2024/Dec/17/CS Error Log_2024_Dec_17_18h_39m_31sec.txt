@@ -1,0 +1,5 @@
+CS Error	18_39_42.178	-314350	Error -314350 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-NS Main.vi->SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi
+CS Error	18_40_26.230	4	Error 4 Occurred at  Read from Binary File in SeCrTs Heavy Control Screen.vi<APPEND>
+D:\SK Labview\GitHub\Retrofit-SeCrTs-Heavy-Software\SeCrTs Heavy\SeCrTS-Control screen\Data\Configuration\F3 test 2
+CS Error	18_40_26.235	1055	Error 1055 Occurred at  Property Node in SeCrTs-Do State extracter.vi->SeCrTs Heavy Control Screen.vi
+CS Error	18_40_42.165	-314350	Error -314350 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-NS Main.vi->SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi

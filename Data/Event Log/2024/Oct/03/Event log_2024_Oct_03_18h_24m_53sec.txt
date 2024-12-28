@@ -1,0 +1,17 @@
+Event log	00_10_32.613	Connect RT	
+Event log	00_10_34.018	START DAQ	
+Event log	04_48_14.601	START LOG	
+Event log	04_51_50.009	STOP LOG	
+Event log	04_51_51.033	STOP DAQ	
+Event log	04_54_57.573	START DAQ	
+Event log	04_55_07.041	START LOG	
+Event log	04_56_05.829	C_EPV_125	
+Event log	04_56_06.762	C_EPV_125	
+Event log	04_56_26.124	STOP LOG	
+Event log	04_59_52.176	START LOG	
+Event log	05_01_05.029	STOP LOG	
+Event log	05_05_11.914	START LOG	
+Event log	05_07_25.417	STOP LOG	
+Event log	05_17_16.677	START LOG	
+Event log	05_17_51.609	STOP LOG	
+Event log	05_18_35.535	START LOG	

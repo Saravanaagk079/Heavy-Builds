@@ -1,0 +1,25 @@
+RT Error	12_42_10.181		
+RT Error	12_42_12.251	-200170	Error -200170 Occurred at  DAQmx Create Channel (DI-Digital Input).vi:2320001<append>
+<B>Device: </B>PXI1Slot5
+<B>Physical Channel Name: </B>port9/line4
+
+<B>Task Name: </B>DI
+RT Error	12_42_12.271		
+RT Error	12_42_18.599	-200478	Error -200478 Occurred at  SeCrTs-DI_Read.vi<append>
+<B>Task Name: </B>DI
+RT Error	12_42_18.600	-200088	Error -200088 Occurred at  DAQmx Stop Task.vi:3590007<append>
+
+RT Error	12_42_18.600		
+RT Error	12_42_18.718	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440008<append>
+<B>Task Name: </B>AI_C
+RT Error	12_42_18.718		
+RT Error	12_42_19.942	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220003<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	12_42_19.963		
+RT Error	12_47_08.359	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	12_47_08.375		
+RT Error	12_47_11.739	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	12_47_11.749		

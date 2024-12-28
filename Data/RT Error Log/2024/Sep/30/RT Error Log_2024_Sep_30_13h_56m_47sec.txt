@@ -1,0 +1,63 @@
+RT Error	13_57_14.488	-314106	Error -314106 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	13_57_14.490	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	13_57_14.509		
+RT Error	13_57_16.610	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220003<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	13_57_16.610		
+RT Error	14_00_13.100	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	14_00_13.102	-314106	Error -314106 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	14_00_13.102	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	14_00_13.102		
+RT Error	14_00_14.566	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220003<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	14_00_14.578		
+RT Error	14_00_30.641	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	14_00_30.654		
+RT Error	14_00_34.587	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	14_00_34.607		
+RT Error	14_01_43.600	-89125	Error -89125 Occurred at  SeCrTs-TC_Read.vi<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	14_01_43.600	-200088	Error -200088 Occurred at  DAQmx Stop Task.vi:3590007<append>
+
+RT Error	14_01_43.601		
+RT Error	14_01_44.235	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440008<append>
+<B>Task Name: </B>AI_C
+RT Error	14_01_44.236		
+RT Error	14_01_45.056	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220003<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	14_01_45.067		
+RT Error	14_03_37.594	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	14_03_37.600		
+RT Error	14_03_41.389	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	14_03_41.395		
+RT Error	14_05_41.099	-314106	Error -314106 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	14_05_41.099	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	14_05_41.100	1055	Error 1055 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	14_05_41.100		
+RT Error	14_05_42.282	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220003<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	14_05_42.303		
+RT Error	14_07_44.690	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440008<append>
+<B>Task Name: </B>AI_C
+RT Error	14_07_44.690		
+RT Error	14_07_45.830	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220003<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	14_07_45.867		

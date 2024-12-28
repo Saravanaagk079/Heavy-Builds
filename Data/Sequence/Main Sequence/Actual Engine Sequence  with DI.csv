@@ -1,0 +1,66 @@
+Sequence,Intermediate Abort,Yes,Safety Abort,NA,Other,NA,,,,,
+,Sequence Name: ,AES_1,,,,,,,,,
+,No.of Sensors:,,,No.of Valves:,,,,,,,
+Sr. No.,Time CDT(s),Component ID,Data Type,Condition,Range/Position,No of Samples for Pass,Event Duration(S),Continuous /Cumulative,Expected Delay(ms),Failure Case Sequence,Current Sequence
+1,-21.625,N_EPV_138,DO,,Open,,,,-,,Engine sequence
+2,-21.6,N_EPV_138_HSS,DI,,Open,2,0.01,Continuous,-,,Engine sequence
+3,-21.575,N_EPV_185,DO,,Open,,,,-,,Engine sequence
+4,-21.55,N_EPV_185_HSS,DI,,Open,2,0.01,Continuous,-,,Engine sequence
+5,-21.525,F_PT_SC_1,AI,<,5,4,0.005,Continuous,-,,Engine sequence
+6,-21.525,F_PT_SC_1,AI,>,2,4,0.005,Continuous,-,,Engine sequence
+7,-21.515,F_RTD_SC,AI,<,100,4,0.005,Continuous,-,,Engine sequence
+8,-21.515,F_RTD_SC,AI,>,80,4,0.005,Continuous,-,,Engine sequence
+9,-21.505,F_PT_SC_1,AI,<,5,4,0.005,Continuous,-,,Engine sequence
+10,-21.505,F_PT_SC_1,AI,>,2,4,0.005,Continuous,-,,Engine sequence
+11,-21.495,ATF_Motor,Drive,,ON,,,,-,,Engine sequence
+12,-11.44,F_PT_DS,AI,<,35,30,0.05,Cumulative,-,,Engine sequence
+13,-11.44,F_PT_DS,AI,>,30,30,0.05,Cumulative,-,,Engine sequence
+14,-11.385,F_EPV_45,DO,,Open,,,,-,,Engine sequence
+15,-11.365,F_EPV_45_HSS,DI,,Open,2,0.01,Continuous,-,,Engine sequence
+16,-11.335, F_PT_47,AI,<,35,35,0.05,Continuous,-,,Engine sequence
+17,-11.335, F_PT_47,AI,>,30,35,0.05,Continuous,-,,Engine sequence
+18,-11.28,N_EPV_138,DO,,Close,,,,-,,Engine sequence
+19,-11.24,N_EPV_138_HSS,DI,,Close,2,0.01,Continuous,-,,Engine sequence
+20,-11.18,N_EPV_185,DO,,Close,,,,-,,Engine sequence
+21,-11.175,N_EPV_185_HSS,DI,,Close,2,0.01,Continuous,-,,Engine sequence
+22,-11.17,Spark plug,DO,,Open,,,,-,,Engine sequence
+23,-11.16,G_EPV_70,DO,,Open,,,,-,,Engine sequence
+24,-11.1,G_EPV_70_HSS,DI,,Open,2,0.01,Continuous,-,,Engine sequence
+25,-11.06,G_PT,AI,<,15,95,0.1,Continuous,-,,Engine sequence
+26,-11.06,G_PT,AI,>,13,95,0.1,Continuous,-,,Engine sequence
+27,-10.955,M_EPV_90,DO,,Open,,,,-,,Engine sequence
+28,-10.99,M_EPV_90_HSS,DI,,Open,2,0.01,Continuous,-,,Engine sequence
+29,-10.855,M_PT,AI,<,15,100,0.1,Continuous,-,,Engine sequence
+30,-10.855,M_PT,AI,>,13,100,0.1,Continuous,-,,Engine sequence
+31,-10.75,I_PT,AI,<,5,48,0.5,Continuous,-,,Engine sequence
+32,-10.75,I_PT,AI,>,4,48,0.5,Continuous,-,,Engine sequence
+33,-10.245,C_PT_SC1,AI,<,5,4,0.005,Continuous,-,,Engine sequence
+34,-10.245,C_PT_SC1,AI,>,2,4,0.005,Continuous,-,,Engine sequence
+35,-10.235,C_RTD_SC,AI,<,100,5,0.005,Continuous,-,,Engine sequence
+36,-10.235,C_RTD_SC,AI,>,80,5,0.005,Continuous,-,,Engine sequence
+37,-10.225,C_PT_SC,AI,<,5,5,0.005,Continuous,-,,Engine sequence
+38,-10.225,C_PT_SC,AI,>,2,5,0.005,Continuous,-,,Engine sequence
+39,-10.215,LOX_MOTOR,Drive,,ON,,,,-,,Engine sequence
+40,-0.16,C_PT_DS,AI,<,35,45,0.05,Continuous,-,,Engine sequence
+41,-0.16,C_PT_DS,AI,>,30,45,0.05,Continuous,-,,Engine sequence
+42,-0.105,C_EPV_13,DO,,Open,,,,-,,Engine sequence
+43,-0.06,C_EPV_13_HSS,DI,,Open,2,0.01,Continuous,-,,Engine sequence
+44,-0.055,C_PT_18,AI,<,35,45,0.05,Continuous,-,,Engine sequence
+45,-0.055,C_PT_18,AI,>,30,45,0.05,Continuous,-,,Engine sequence
+46,0.1,LOX_MOTOR,Drive,,OFF,,,,-,,Engine sequence
+47,0.2,ATF_MOTOR,Drive,,OFF,,,,-,,Engine sequence
+48,0.3,C_EPV_13,DO,,Close,,,,-,,Engine sequence
+49,0.35,C_EPV_13_HSS,DI,,Close,2,0.01,Continuous,-,,Engine sequence
+50,0.4,F_EPV_45,DO,,Close,,,,-,,Engine sequence
+51,0.45,F_EPV_45_HSS,DI,,Close,2,0.01,Continuous,-,,Engine sequence
+52,0.5,E_PT,AI,<,8,90,0.1,Continuous,-,,Engine sequence
+53,0.65,N_EPV_128,DO,,Open,,,,-,,Engine sequence
+54,0.7,N_EPV_128_HSS,DI,,Open,2,0.01,Continuous,-,,Engine sequence
+55,0.75,N_EPV_174,DO,,Open,,,,-,,Engine sequence
+56,0.8,N_EPV_174_HSS,DI,,Open,2,0.01,Continuous,-,,Engine sequence
+57,0.85,N_EPV_138,DO,,Open,,,,-,,Engine sequence
+58,0.9,N_EPV_138_HSS,DI,,Open,2,0.01,Continuous,-,,Engine sequence
+59,0.95,N_EPV_185,DO,,Open,,,,-,,Engine sequence
+60,1,N_EPV_185_HSS,DI,,Open,2,0.01,Continuous,-,,Engine sequence
+61,1.05,C_EPV_14,DO,,Open,,,,-,,Engine sequence
+62,1.15,C_EPV_14_HSS,DI,,Open,2,0.01,Continuous,-,,Engine sequence

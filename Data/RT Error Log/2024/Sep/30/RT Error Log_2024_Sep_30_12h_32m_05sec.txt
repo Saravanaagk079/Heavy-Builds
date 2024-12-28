@@ -1,0 +1,61 @@
+RT Error	12_33_09.539		
+RT Error	12_33_11.648	-200170	Error -200170 Occurred at  DAQmx Create Channel (DI-Digital Input).vi:2320001<append>
+<B>Device: </B>PXI1Slot5
+<B>Physical Channel Name: </B>port9/line4
+
+<B>Task Name: </B>DI
+RT Error	12_33_11.669		
+RT Error	12_33_15.708	-200478	Error -200478 Occurred at  SeCrTs-DI_Read.vi<append>
+<B>Task Name: </B>DI
+RT Error	12_33_29.099	-200088	Error -200088 Occurred at  DAQmx Stop Task.vi:3590007<append>
+
+RT Error	12_33_29.100		
+RT Error	12_33_29.337	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440008<append>
+<B>Task Name: </B>AI_C
+RT Error	12_33_29.337		
+RT Error	12_33_30.740	-209808	Error -209808 Occurred at  DAQmx Start Task.vi:7220003<append>
+<B>Channel Name: </B>_PXI1Slot7/_cjtemp
+
+<B>Task Name: </B>TC
+RT Error	12_33_30.741		
+RT Error	12_35_43.600	-209808	Error -209808 Occurred at  SeCrTs-TC_Read.vi<append>
+<B>Channel Name: </B>_PXI1Slot7/_cjtemp
+
+<B>Task Name: </B>TC
+RT Error	12_35_43.601	-200088	Error -200088 Occurred at  DAQmx Stop Task.vi:3590007<append>
+
+RT Error	12_35_43.601		
+RT Error	12_35_44.216	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440008<append>
+<B>Task Name: </B>AI_C
+RT Error	12_35_44.217		
+RT Error	12_35_44.929	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220003<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	12_35_44.931		
+RT Error	12_35_57.602	-89125	Error -89125 Occurred at  SeCrTs-TC_Read.vi<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	12_35_57.603	-200088	Error -200088 Occurred at  DAQmx Stop Task.vi:3590007<append>
+
+RT Error	12_35_57.604		
+RT Error	12_35_57.925	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440008<append>
+<B>Task Name: </B>AI_C
+RT Error	12_35_57.926		
+RT Error	12_35_58.998	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220003<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	12_35_59.018		
+RT Error	12_39_22.168	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	12_39_22.187		
+RT Error	12_39_24.867	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	12_39_24.878		
+RT Error	12_39_26.077	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	12_39_26.097		
+RT Error	12_39_28.427	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Display NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	12_39_28.447		

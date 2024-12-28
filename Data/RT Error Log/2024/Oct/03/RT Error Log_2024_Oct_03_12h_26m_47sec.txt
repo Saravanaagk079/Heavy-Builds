@@ -1,0 +1,60 @@
+RT Error	12_27_20.074	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	12_27_20.074	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	12_27_20.094		
+RT Error	12_27_23.962	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220001<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	12_27_23.973		
+RT Error	12_28_18.080	-89125	Error -89125 Occurred at  SeCrTs-TC_Read.vi<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	12_28_18.082	-200088	Error -200088 Occurred at  DAQmx Stop Task.vi:3590007<append>
+
+RT Error	12_28_18.082		
+RT Error	12_28_18.705	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440008<append>
+<B>Task Name: </B>AI_C
+RT Error	12_28_18.706		
+RT Error	12_28_19.307	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220001<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	12_28_19.316		
+RT Error	12_28_24.673	-89125	Error -89125 Occurred at  SeCrTs-TC_Read.vi<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	12_29_54.578	-200088	Error -200088 Occurred at  DAQmx Stop Task.vi:3590007<append>
+
+RT Error	12_29_54.579		
+RT Error	12_29_55.204	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440008<append>
+<B>Task Name: </B>AI_C
+RT Error	12_29_55.205		
+RT Error	12_29_56.184	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220001<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	12_29_56.206		
+RT Error	12_30_51.579	-89125	Error -89125 Occurred at  SeCrTs-TC_Read.vi<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	12_30_51.580	-200088	Error -200088 Occurred at  DAQmx Stop Task.vi:3590007<append>
+
+RT Error	12_30_51.581		
+RT Error	12_30_52.204	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440008<append>
+<B>Task Name: </B>AI_C
+RT Error	12_30_52.205		
+RT Error	12_30_52.835	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220001<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	12_30_52.845		

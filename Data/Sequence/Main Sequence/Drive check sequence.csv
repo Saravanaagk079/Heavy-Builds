@@ -1,0 +1,6 @@
+Sequence,Intermediate Abort ,,Safety Abort,,Other,,,,,,
+,Sequence Name: et1,,,,,,,,,,
+,No.of Sensors: 2,,,No.of Valves: 5,,,,,,,
+Sr. No.,Time CDT(ms),Component ID,Data Type,Condition,Range/Position,No of Samples for Pass,Event Duration(ms),Continuous /Cumulative,Expected Delay(ms),Failure Case Sequence,Current Sequence
+1,-150,Motor ON,Drive,,ON,,,,,,Drive Sequence
+,-149.999,Motor OFF,,,OFF,,,,,,Drive Sequence

@@ -1,0 +1,178 @@
+Event log	03_40_37.565	Connect RT	
+Event log	03_40_39.426	START DAQ	
+Event log	03_40_41.020	START LOG	
+Event log	03_41_05.679	Pre readiness file	
+Event log	03_41_06.637	sequence readiness	
+Event log	03_41_12.249	Get Sequence 	
+Event log	03_41_25.366	Set	
+Event log	03_41_26.660	Start or Revert Sequence	
+Event log	03_41_41.256	Start or Revert Sequence	
+Event log	03_41_42.624	Set	
+Event log	03_42_01.760	Start or Revert Sequence	
+Event log	03_45_36.502	Start or Revert Sequence	
+Event log	03_46_01.166	Start or Revert Sequence	
+Event log	03_46_28.830	Start or Revert Sequence	
+Event log	03_46_39.537	Set	
+Event log	03_46_40.994	Start or Revert Sequence	
+Event log	03_49_11.244	Start or Revert Sequence	
+Event log	03_49_20.891	Set	
+Event log	03_49_36.225	Set	
+Event log	03_49_53.829	Set	
+Event log	03_49_54.983	Start or Revert Sequence	
+Event log	03_50_04.988	STOP LOG	
+Event log	03_50_05.844	STOP DAQ	
+Event log	03_50_06.530	Connect RT	
+Event log	03_51_48.620	Connect RT	
+Event log	03_51_50.147	START DAQ	
+Event log	03_51_51.614	START LOG	
+Event log	03_51_54.499	Start or Revert Sequence	
+Event log	03_52_10.254	Set	
+Event log	03_52_18.505	sequence readiness	
+Event log	03_52_23.174	Safe State	
+Event log	03_52_25.575	sequence readiness	
+Event log	03_52_29.580	Get Sequence 	
+Event log	03_52_47.796	Set	
+Event log	03_52_49.402	Start or Revert Sequence	
+Event log	04_27_32.672	STOP LOG	
+Event log	04_27_34.031	STOP DAQ	
+Event log	04_27_34.674	Connect RT	
+Event log	04_27_35.614	Connect RT	
+Event log	04_27_37.179	START DAQ	
+Event log	04_27_38.494	START LOG	
+Event log	04_27_41.688	Start or Revert Sequence	
+Event log	04_27_42.510	Start or Revert Sequence	
+Event log	04_27_43.524	Start or Revert Sequence	
+Event log	04_27_53.816	Set	
+Event log	04_27_56.809	sequence readiness	
+Event log	04_27_59.861	Get Sequence 	
+Event log	04_28_09.651	Start or Revert Sequence	
+Event log	04_31_46.168	Start or Revert Sequence	
+Event log	04_31_53.883	Set	
+Event log	04_31_54.988	Start or Revert Sequence	
+Event log	04_32_02.166	Start or Revert Sequence	
+Event log	04_32_09.825	Set	
+Event log	04_32_10.767	Start or Revert Sequence	
+Event log	04_33_16.302	Start or Revert Sequence	
+Event log	04_33_17.847	STOP LOG	
+Event log	04_33_18.974	STOP DAQ	
+Event log	04_33_20.555	Connect RT	
+Event log	04_35_20.151	Connect RT	
+Event log	04_35_23.302	START DAQ	
+Event log	04_35_24.949	START LOG	
+Event log	04_35_40.258	Set	
+Event log	04_35_42.311	sequence readiness	
+Event log	04_35_44.945	Get Sequence 	
+Event log	04_35_47.481	Start or Revert Sequence	
+Event log	04_37_47.377	Start or Revert Sequence	
+Event log	04_37_57.803	Set	
+Event log	04_37_59.346	Start or Revert Sequence	
+Event log	04_39_54.679	Start or Revert Sequence	
+Event log	04_40_05.279	Set	
+Event log	04_40_07.066	Start or Revert Sequence	
+Event log	04_43_16.413	STOP LOG	
+Event log	04_43_17.611	STOP DAQ	
+Event log	04_43_18.258	Connect RT	
+Event log	04_43_20.123	Connect RT	
+Event log	04_43_21.702	START DAQ	
+Event log	04_43_23.015	START LOG	
+Event log	04_43_27.111	Start or Revert Sequence	
+Event log	04_43_29.045	sequence readiness	
+Event log	04_43_32.260	Safe State	
+Event log	04_43_33.913	sequence readiness	
+Event log	04_43_36.991	Get Sequence 	
+Event log	04_43_51.973	Set	
+Event log	04_43_57.945	Start or Revert Sequence	
+Event log	04_47_23.948	STOP LOG	
+Event log	04_47_24.793	STOP DAQ	
+Event log	04_47_25.658	Connect RT	
+Event log	04_47_26.514	Connect RT	
+Event log	04_47_28.557	Connect RT	
+Event log	04_47_38.527	Connect RT	
+Event log	04_47_40.324	START DAQ	
+Event log	04_47_42.997	START LOG	
+Event log	04_47_45.601	Start or Revert Sequence	
+Event log	04_47_48.273	Safe State	
+Event log	04_47_49.268	Safe State	
+Event log	04_47_53.161	sequence readiness	
+Event log	04_48_00.225	Start or Revert Sequence	
+Event log	04_48_08.591	Start or Revert Sequence	
+Event log	04_48_10.304	sequence readiness	
+Event log	04_48_12.462	Get Sequence 	
+Event log	04_48_25.280	Set	
+Event log	04_48_26.650	Start or Revert Sequence	
+Event log	04_50_31.197	Start or Revert Sequence	
+Event log	04_50_43.022	Set	
+Event log	04_50_44.589	Start or Revert Sequence	
+Event log	04_56_38.203	Start or Revert Sequence	
+Event log	04_56_52.030	Set	
+Event log	04_56_54.437	Start or Revert Sequence	
+Event log	04_58_21.386	Start or Revert Sequence	
+Event log	04_58_28.054	Start or Revert Sequence	
+Event log	05_04_22.305	Start or Revert Sequence	
+Event log	05_04_23.623	STOP LOG	
+Event log	05_04_24.488	STOP DAQ	
+Event log	05_04_25.532	Connect RT	
+Event log	05_14_08.230	Connect RT	
+Event log	05_14_14.291	START DAQ	
+Event log	05_14_22.800	START LOG	
+Event log	05_14_26.163	Safe State	
+Event log	05_14_27.202	Safe State	
+Event log	05_14_40.817	Set	
+Event log	05_14_44.002	sequence readiness	
+Event log	05_14_46.941	Get Sequence 	
+Event log	05_14_52.595	Refresh	
+Event log	05_14_56.740	sequence readiness	
+Event log	05_14_59.462	Get Sequence 	
+Event log	05_15_03.884	Start or Revert Sequence	
+Event log	05_29_10.730	Start or Revert Sequence	
+Event log	05_29_13.758	STOP LOG	
+Event log	05_29_15.384	STOP DAQ	
+Event log	05_29_16.546	Connect RT	
+Event log	05_30_18.748	Connect RT	
+Event log	05_30_21.602	START DAQ	
+Event log	05_30_23.039	START LOG	
+Event log	05_30_30.799	sequence readiness	
+Event log	05_30_33.666	Get Sequence 	
+Event log	05_30_56.379	Get Sequence 	
+Event log	05_31_07.776	DAQ SETTING	
+Event log	05_32_14.511	STOP LOG	
+Event log	05_32_15.460	STOP DAQ	
+Event log	05_32_16.151	Connect RT	
+Event log	05_32_59.586	Connect RT	
+Event log	05_33_01.326	START DAQ	
+Event log	05_33_11.066	START DAQ	
+Event log	05_33_22.097	START LOG	
+Event log	05_33_39.567	sequence readiness	
+Event log	05_33_44.699	Get Sequence 	
+Event log	05_33_48.882	Refresh	
+Event log	05_33_50.146	sequence readiness	
+Event log	05_33_52.620	Get Sequence 	
+Event log	05_34_04.876	Refresh	
+Event log	05_34_06.041	sequence readiness	
+Event log	05_34_08.740	Get Sequence 	
+Event log	05_34_24.867	sequence readiness	
+Event log	05_34_30.890	Get Sequence 	
+Event log	05_35_32.284	Get Sequence 	
+Event log	05_35_46.697	Set	
+Event log	05_35_50.349	Start or Revert Sequence	
+Event log	05_38_13.202	Hold CDT	
+Event log	05_38_14.778	Start or Revert Sequence	
+Event log	05_38_24.752	Set	
+Event log	05_38_26.122	Start or Revert Sequence	
+Event log	05_43_26.675	Hold CDT	
+Event log	05_43_27.865	Start or Revert Sequence	
+Event log	05_43_29.041	STOP LOG	
+Event log	05_43_30.075	STOP DAQ	
+Event log	05_43_31.781	Connect RT	
+Event log	05_50_10.758	Connect RT	
+Event log	05_50_12.306	START DAQ	
+Event log	05_50_13.929	START LOG	
+Event log	05_50_32.372	Set	
+Event log	05_50_35.431	sequence readiness	
+Event log	05_50_38.260	Get Sequence 	
+Event log	05_50_41.364	Start or Revert Sequence	
+Event log	05_59_55.499	Hold CDT	
+Event log	05_59_57.268	Start or Revert Sequence	
+Event log	06_00_02.156	STOP LOG	
+Event log	06_00_04.544	STOP DAQ	
+Event log	06_00_08.638	Connect RT	

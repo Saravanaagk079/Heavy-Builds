@@ -1,0 +1,48 @@
+Event log	12_14_58.715	Log option	
+Event log	12_15_03.809	Enable/Disable IP	
+Event log	12_15_12.822	IP ADDRESS	
+Event log	12_15_13.032	Connect RT	
+Event log	12_15_15.571	START DAQ	
+Event log	12_16_37.128	Enable/Disable IP	
+Event log	12_17_48.609	START LOG	
+Event log	12_17_52.544	C_EPV_78	
+Event log	12_17_53.200	C_EPV_78	
+Event log	12_17_53.719	C_EPV_78	
+Event log	12_17_54.368	C_EPV_78	
+Event log	12_17_54.963	C_EPV_78	
+Event log	12_17_55.701	C_EPV_78	
+Event log	12_17_56.296	C_EPV_78	
+Event log	12_17_56.856	C_EPV_78	
+Event log	12_17_57.459	C_EPV_78	
+Event log	12_17_58.528	C_EPV_78	
+Event log	12_17_59.890	C_EPV_78	
+Event log	12_18_01.462	C_EPV_78	
+Event log	12_18_02.767	C_EPV_78	
+Event log	12_18_04.537	C_EPV_78	
+Event log	12_18_29.101	C_EPV_78	
+Event log	12_18_30.210	C_EPV_75	
+Event log	12_18_30.969	C_EPV_75	
+Event log	12_18_31.822	C_EPV_78	
+Event log	12_18_48.019	C_EPV_75	
+Event log	12_18_48.545	C_EPV_75	
+Event log	12_18_49.043	C_EPV_75	
+Event log	12_18_49.432	C_EPV_75	
+Event log	12_18_50.235	C_EPV_78	
+Event log	12_18_51.058	C_EPV_78	
+Event log	12_18_51.873	C_EPV_75	
+Event log	12_18_52.307	C_EPV_75	
+Event log	12_18_53.109	C_EPV_78	
+Event log	12_18_53.466	C_EPV_78	
+Event log	12_18_54.180	C_EPV_75	
+Event log	12_18_54.524	C_EPV_75	
+Event log	12_18_55.363	C_EPV_78	
+Event log	12_18_55.769	C_EPV_78	
+Event log	12_18_56.542	C_EPV_75	
+Event log	12_18_56.993	C_EPV_75	
+Event log	12_18_58.530	C_EPV_78	
+Event log	12_18_58.844	C_EPV_78	
+Event log	12_18_59.558	C_EPV_75	
+Event log	12_18_59.875	C_EPV_75	
+Event log	12_21_09.828	STOP LOG	
+Event log	12_23_08.416	STOP DAQ	
+Event log	12_23_10.044	RT Stop	

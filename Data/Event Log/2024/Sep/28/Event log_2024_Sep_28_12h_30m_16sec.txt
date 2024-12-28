@@ -1,0 +1,9 @@
+Event log	12_31_06.506	DAQ SETTING	
+Event log	12_55_20.186	Enable/Disable IP	
+Event log	12_55_28.572	IP ADDRESS	
+Event log	12_55_30.833	Enable/Disable IP	
+Event log	12_55_32.696	Connect RT	
+Event log	12_55_39.552	START DAQ	
+Event log	12_55_50.402	STOP DAQ	
+Event log	12_55_51.634	DAQ SETTING	
+Event log	12_56_16.019	RT Stop	

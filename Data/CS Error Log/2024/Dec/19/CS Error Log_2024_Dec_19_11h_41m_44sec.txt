@@ -1,0 +1,4 @@
+CS Error	11_42_36.164	1055	Error 1055 Occurred at  Property Node in SeCrTs-Do State extracter.vi->SeCrTs Heavy Control Screen.vi
+CS Error	11_42_39.623	4	Error 4 Occurred at  Read from Binary File in SeCrTs Heavy Control Screen.vi<APPEND>
+D:\SK Labview\GitHub\Retrofit-SeCrTs-Heavy-Software\SeCrTs Heavy\SeCrTS-Control screen\Data\Configuration\F3 test 2
+CS Error	11_42_39.630	1055	Error 1055 Occurred at  Property Node in SeCrTs-Do State extracter.vi->SeCrTs Heavy Control Screen.vi

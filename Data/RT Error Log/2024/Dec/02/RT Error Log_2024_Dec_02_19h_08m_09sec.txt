@@ -1,0 +1,19 @@
+RT Error	19_08_33.089		
+RT Error	19_08_46.038	-200284	Error -200284 Occurred at  SeCrTs-AI_V_Read.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_V
+RT Error	19_08_46.049		
+RT Error	19_21_51.905	-200284	Error -200284 Occurred at  SeCrTs-AI_V_ signalRead.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI V signal
+RT Error	19_21_51.915		

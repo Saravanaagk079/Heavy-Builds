@@ -1,0 +1,5 @@
+RT Error	02_57_19.162		
+RT Error	03_17_07.257	1	Error 1 Occurred at  SeCrTs-RT_Main.vi<ERR>
+The invalid message string "Motor OFF ATF" was received in the Message Handling Loop.
+RT Error	03_17_07.266	1	Error 1 Occurred at  TCP Write in SeCrTs-RT_Main.vi
+RT Error	03_17_07.277		

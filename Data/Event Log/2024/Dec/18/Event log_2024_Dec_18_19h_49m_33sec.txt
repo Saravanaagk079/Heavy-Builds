@@ -1,0 +1,18 @@
+Event log	19_49_46.010	Connect RT	
+Event log	19_49_48.981	START DAQ	
+Event log	19_49_54.730	START DAQ	
+Event log	19_49_56.829	START LOG	
+Event log	19_50_09.335	Get Sequence 	
+Event log	19_50_18.865	Set	
+Event log	19_50_20.811	Set	
+Event log	19_50_22.737	Set	
+Event log	19_50_22.926	Set	
+Event log	19_50_23.155	Set	
+Event log	19_50_24.546	Hold CDT	
+Event log	19_50_24.943	Hold CDT	
+Event log	19_50_26.663	Set	
+Event log	19_50_28.483	STOP LOG	
+Event log	19_50_29.580	STOP DAQ	
+Event log	19_50_31.018	START DAQ	
+Event log	19_50_46.498	STOP DAQ	
+Event log	19_50_47.246	Connect RT	

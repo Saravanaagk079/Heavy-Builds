@@ -1,0 +1,6 @@
+Event log	11_42_34.609	Connect RT	
+Event log	11_42_36.159	START DAQ	
+Event log	11_42_39.624	START DAQ	
+Event log	11_42_41.182	START LOG	
+Event log	11_42_42.916	C_EPV_14	
+Event log	11_42_43.412	C_EPV_79	

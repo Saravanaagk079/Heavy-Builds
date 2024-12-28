@@ -1,0 +1,3 @@
+CS Error	18_35_50.236	-314350	Error -314350 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-NS Main.vi->SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi
+CS Error	18_35_53.095	1055	Error 1055 Occurred at  Property Node in SeCrTs-Do State extracter.vi->SeCrTs Heavy Control Screen.vi
+CS Error	18_35_53.095	-314350	Error -314350 Occurred at  Create Network Stream Writer Endpoint in SeCrTs-NS Main.vi->SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi

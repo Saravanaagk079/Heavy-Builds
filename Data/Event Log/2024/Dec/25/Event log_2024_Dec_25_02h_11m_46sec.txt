@@ -1,0 +1,52 @@
+Event log	02_12_00.239	Connect RT	
+Event log	02_12_12.387	START DAQ	
+Event log	02_12_18.993	Pre readiness file	
+Event log	02_12_19.904	sequence readiness	
+Event log	02_12_25.497	Get Sequence 	
+Event log	02_12_28.859	Set	
+Event log	02_12_38.120	Set	
+Event log	02_12_53.841	Set	
+Event log	02_13_02.050	Set	
+Event log	02_13_05.619	Start or Revert Sequence	
+Event log	02_17_40.875	STOP LOG	
+Event log	02_17_42.074	STOP DAQ	
+Event log	02_17_42.878	Connect RT	
+Event log	02_17_45.048	Start or Revert Sequence	
+Event log	02_17_47.335	STOP LOG	
+Event log	02_17_48.928	Start or Revert Sequence	
+Event log	02_17_50.633	Start or Revert Sequence	
+Event log	02_17_51.280	Start or Revert Sequence	
+Event log	02_17_51.778	Start or Revert Sequence	
+Event log	02_17_52.260	Start or Revert Sequence	
+Event log	02_17_53.798	STOP LOG	
+Event log	02_17_57.286	STOP DAQ	
+Event log	02_18_00.340	Start or Revert Sequence	
+Event log	02_18_02.019	STOP LOG	
+Event log	02_18_03.330	STOP DAQ	
+Event log	02_18_07.464	Connect RT	
+Event log	02_18_09.296	START DAQ	
+Event log	02_18_14.463	START DAQ	
+Event log	02_19_05.610	Set	
+Event log	02_19_08.220	sequence readiness	
+Event log	02_19_10.838	Get Sequence 	
+Event log	02_19_13.925	Start or Revert Sequence	
+Event log	02_20_37.000	Start or Revert Sequence	
+Event log	02_20_49.515	Set	
+Event log	02_20_50.678	Start or Revert Sequence	
+Event log	02_22_30.386	Start or Revert Sequence	
+Event log	02_22_31.503	STOP LOG	
+Event log	02_22_32.576	STOP DAQ	
+Event log	02_22_33.307	Connect RT	
+Event log	02_22_58.050	Connect RT	
+Event log	02_22_59.506	START DAQ	
+Event log	02_23_01.693	START LOG	
+Event log	02_23_04.461	Set	
+Event log	02_23_23.845	Set	
+Event log	02_23_32.099	Set	
+Event log	02_23_33.422	sequence readiness	
+Event log	02_23_35.714	Get Sequence 	
+Event log	02_23_38.144	Start or Revert Sequence	
+Event log	02_24_43.304	Start or Revert Sequence	
+Event log	02_24_44.759	STOP LOG	
+Event log	02_24_47.784	STOP DAQ	
+Event log	02_24_48.890	Connect RT	

@@ -1,0 +1,5 @@
+CS Error	03_56_46.520	1003	Error 1003 Occurred at  Invoke Node in SeCrTs-Call by reference.vi->SeCrTs Heavy Control Screen.vi
+<APPEND>
+Method Name: <b>Run VI</b>
+
+VI Path: <b>D:\New\SeCrTS-Control screen\Source Code\Sub VI's\SeCrTs-Hardware Config.vi</b>

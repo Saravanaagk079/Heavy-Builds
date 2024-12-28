@@ -1,0 +1,20 @@
+Sequence,Intermediate Abort ,,Safety Abort,,Other,,,,,,
+,Sequence Name: AB1,,,,,,,,,,
+,No.of Sensors: 0,,,No.of Valves: 5,,,,,,,
+Sr. No.,Time CDT(ms),Component ID,Data Type,Condition,Range/Position,No of Samples for Pass,Event Duration(ms),Continuous /Cumulative,Expected Delay(ms),Failure Case Sequence,Current Sequence
+1,,C_EPV_6,DO,,Close,,,,100,,PURGE ABORT AI
+2,,C_EPV_6,DO,,Open,,,,100,,PURGE ABORT AI
+3,,C_EPV_6,DO,,Close,,,,100,,PURGE ABORT AI
+4,,C_EPV_6,DO,,Open,,,,100,,PURGE ABORT AI
+5,,C_EPV_6,DO,,Close,,,,100,,PURGE ABORT AI
+6,,C_EPV_6,DO,,Open,,,,100,,PURGE ABORT AI
+7,,C_EPV_6,DO,,Close,,,,100,,PURGE ABORT AI
+8,,C_EPV_6,DO,,Open,,,,100,,PURGE ABORT AI
+9,,C_EPV_6,DO,,Close,,,,100,,PURGE ABORT AI
+10,,C_EPV_6,DO,,Open,,,,100,,PURGE ABORT AI
+11,,C_EPV_6,DO,,Close,,,,100,,PURGE ABORT AI
+12,,C_EPV_6,DO,,Open,,,,100,,PURGE ABORT AI
+13,,C_EPV_6,DO,,Close,,,,100,,PURGE ABORT AI
+14,,C_EPV_6,DO,,Open,,,,100,,PURGE ABORT AI
+15,,C_EPV_6,DO,,Close,,,,100,,PURGE ABORT AI
+16,,C_EPV_6,DO,,Open,,,,100,,PURGE ABORT AI

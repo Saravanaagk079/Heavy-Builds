@@ -1,0 +1,20 @@
+RT Error	15_54_37.798		
+RT Error	15_55_11.447	-200088	Error -200088 Occurred at  DAQmx Stop Task.vi:3590006<append>
+
+RT Error	15_55_11.458		
+RT Error	15_55_16.876	-200089	Error -200089 Occurred at  DAQmx Create Task.vi:4440005<append>
+<B>Task Name: </B>DI
+RT Error	15_55_16.897		
+RT Error	15_55_26.997	-200587	Error -200587 Occurred at  DAQmx Start Task.vi:7220001<append>
+<B>Device: </B> PXI1Slot13
+
+<B>Task Name: </B>_unnamedTask<1>
+RT Error	15_55_27.016		
+RT Error	15_59_38.767	-314220	Error -314220 Occurred at  Read Single Element from Stream in SeCrTs-UI Commands_R.vi->SeCrTs-RT_Main.vi
+RT Error	15_59_38.779		
+RT Error	16_52_16.308	-200524	Error -200524 Occurred at  SeCrTs-DO_Write.vi<append>
+<B>Number of Channels in Task: </B>33
+<B>Number of Channels in Data: </B>2
+
+<B>Task Name: </B>DO
+RT Error	16_52_16.328		

@@ -1,0 +1,69 @@
+Event log	20_08_31.075	Connect RT	
+Event log	20_08_32.323	START DAQ	
+Event log	20_08_43.111	START DAQ	
+Event log	20_08_47.180	START DAQ	
+Event log	20_08_50.744	START LOG	
+Event log	20_09_49.531	Set	
+Event log	20_09_56.577	Set	
+Event log	20_10_07.376	Get Sequence 	
+Event log	20_10_09.253	Start or Revert Sequence	
+Event log	20_10_39.360	Start or Revert Sequence	
+Event log	20_10_43.704	Get Sequence 	
+Event log	20_10_45.578	Set	
+Event log	20_10_55.913	Set	
+Event log	20_10_57.394	Start or Revert Sequence	
+Event log	20_11_06.512	ABORT	
+Event log	20_11_12.721	ABORT	
+Event log	20_11_19.489	Hold CDT	
+Event log	20_11_20.344	Start or Revert Sequence	
+Event log	20_11_21.716	STOP LOG	
+Event log	20_11_22.816	STOP DAQ	
+Event log	20_11_23.496	Connect RT	
+Event log	20_12_20.535	Connect RT	
+Event log	20_12_21.883	START DAQ	
+Event log	20_12_23.138	START LOG	
+Event log	20_12_28.617	Get Sequence 	
+Event log	20_12_31.094	STOP LOG	
+Event log	20_12_32.305	Log option	
+Event log	20_12_33.428	START LOG	
+Event log	20_13_00.132	STOP LOG	
+Event log	20_13_01.258	START LOG	
+Event log	20_13_31.856	Start or Revert Sequence	
+Event log	20_13_33.176	Start or Revert Sequence	
+Event log	20_13_39.693	Set	
+Event log	20_13_40.902	Start or Revert Sequence	
+Event log	20_14_59.315	STOP LOG	
+Event log	20_15_00.230	START LOG	
+Event log	20_22_00.733	Connect RT	
+Event log	20_22_01.403	STOP LOG	
+Event log	20_22_02.196	STOP DAQ	
+Event log	20_22_11.765	START DAQ	
+Event log	20_22_12.953	START LOG	
+Event log	20_22_16.774	Start or Revert Sequence	
+Event log	20_22_24.531	Set	
+Event log	20_22_25.716	Set	
+Event log	20_22_25.915	Set	
+Event log	20_22_26.105	Set	
+Event log	20_22_26.298	Set	
+Event log	20_22_26.502	Set	
+Event log	20_22_26.691	Set	
+Event log	20_22_26.907	Set	
+Event log	20_22_27.135	Set	
+Event log	20_22_27.377	Set	
+Event log	20_22_27.629	Set	
+Event log	20_22_27.919	Set	
+Event log	20_22_28.167	Set	
+Event log	20_22_29.583	STOP LOG	
+Event log	20_22_29.980	STOP DAQ	
+Event log	20_22_38.443	Connect RT	
+Event log	20_22_39.534	START DAQ	
+Event log	20_22_40.899	START LOG	
+Event log	20_22_49.948	Set	
+Event log	20_23_05.762	Set	
+Event log	20_23_07.644	Start or Revert Sequence	
+Event log	20_23_10.690	Get Sequence 	
+Event log	20_23_13.796	Start or Revert Sequence	
+Event log	20_23_14.151	Start or Revert Sequence	
+Event log	20_23_42.939	STOP LOG	
+Event log	20_23_43.435	STOP DAQ	
+Event log	20_23_44.215	Connect RT	

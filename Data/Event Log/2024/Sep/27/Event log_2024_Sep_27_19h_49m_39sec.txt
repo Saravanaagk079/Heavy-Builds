@@ -1,0 +1,14 @@
+Event log	19_50_17.891	Enable/Disable IP	
+Event log	19_50_24.601	IP ADDRESS	
+Event log	19_50_24.602	Enable/Disable IP	
+Event log	19_50_26.010	Connect RT	
+Event log	19_50_33.645	START DAQ	
+Event log	19_50_39.885	START DAQ	
+Event log	19_50_52.372	START LOG	
+Event log	19_50_58.496	C_EPV_78	
+Event log	19_51_01.074	C_EPV_78	
+Event log	19_51_03.622	C_EPV_78	
+Event log	19_51_05.387	C_EPV_78	
+Event log	19_51_25.333	STOP LOG	
+Event log	19_51_26.382	STOP DAQ	
+Event log	19_51_28.471	RT Stop	

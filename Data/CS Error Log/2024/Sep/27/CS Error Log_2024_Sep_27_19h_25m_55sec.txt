@@ -1,0 +1,5 @@
+CS Error	19_28_27.985	1055	Error 1055 Occurred at  Read Single Element from Stream in SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi
+CS Error	19_28_27.985	-1950678941	Error -1950678941 Occurred at  Read Single Element from Stream in SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi
+CS Error	19_29_09.167	-314101	Error -314101 Occurred at  Create Network Stream Reader Endpoint in SeCrTs-NS Main.vi->SeCrTs Heavy Control Screen.vi
+CS Error	19_29_09.167	-1950678941	Error -1950678941 Occurred at  Read Single Element from Stream in SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi
+CS Error	19_29_16.732	-1950678941	Error -1950678941 Occurred at  Read Single Element from Stream in SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi

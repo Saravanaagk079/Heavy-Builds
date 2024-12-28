@@ -1,0 +1,3 @@
+CS Error	19_59_11.610	1039	Error 1039 Occurred at  Invoke Node in SeCrTs-Call by reference.vi->SeCrTs Heavy Control Screen.vi
+<APPEND>
+VI was aborted

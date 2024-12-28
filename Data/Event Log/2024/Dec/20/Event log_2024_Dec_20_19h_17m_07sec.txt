@@ -1,0 +1,6 @@
+Event log	19_19_12.289	Enable/Disable IP	
+Event log	19_19_13.096	Enable/Disable IP	
+Event log	19_20_28.370	Log option	
+Event log	19_20_29.019	Log option	
+Event log	19_20_30.997	Log In Tool	
+Event log	19_20_52.565	DAQ SETTING	

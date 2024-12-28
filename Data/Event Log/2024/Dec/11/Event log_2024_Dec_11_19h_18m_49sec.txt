@@ -1,0 +1,68 @@
+Event log	19_18_55.909	Connect RT	
+Event log	19_18_57.050	START DAQ	
+Event log	19_19_32.698	START DAQ	
+Event log	19_20_02.566	START LOG	
+Event log	19_20_13.101	Set	
+Event log	19_20_20.090	Set	
+Event log	19_20_26.604	Start or Revert Sequence	
+Event log	19_20_27.970	Start or Revert Sequence	
+Event log	19_20_42.040	Set	
+Event log	19_20_48.288	Get Sequence 	
+Event log	19_21_56.810	Set	
+Event log	19_21_59.203	Get Sequence 	
+Event log	19_22_03.237	Start or Revert Sequence	
+Event log	19_22_49.489	Start or Revert Sequence	
+Event log	19_23_05.416	Set	
+Event log	19_23_07.858	Start or Revert Sequence	
+Event log	19_23_57.106	STOP LOG	
+Event log	19_23_57.735	STOP DAQ	
+Event log	19_23_58.574	Connect RT	
+Event log	19_27_09.162	Connect RT	
+Event log	19_27_10.003	START DAQ	
+Event log	19_27_11.150	START LOG	
+Event log	19_27_19.547	Set	
+Event log	19_27_22.096	Start or Revert Sequence	
+Event log	19_27_22.926	Get Sequence 	
+Event log	19_27_24.838	Start or Revert Sequence	
+Event log	19_29_48.886	STOP LOG	
+Event log	19_29_49.491	STOP DAQ	
+Event log	19_29_49.968	Connect RT	
+Event log	19_31_17.166	Connect RT	
+Event log	19_31_18.028	START DAQ	
+Event log	19_31_19.500	START LOG	
+Event log	19_31_30.631	Set	
+Event log	19_31_31.738	Start or Revert Sequence	
+Event log	19_31_33.840	Get Sequence 	
+Event log	19_31_35.520	Start or Revert Sequence	
+Event log	19_33_16.228	STOP LOG	
+Event log	19_33_17.501	START LOG	
+Event log	19_33_19.720	Start or Revert Sequence	
+Event log	19_33_32.626	Set	
+Event log	19_33_34.447	Get Sequence 	
+Event log	19_33_52.091	Start or Revert Sequence	
+Event log	19_33_55.423	Start or Revert Sequence	
+Event log	19_33_56.996	STOP LOG	
+Event log	19_34_06.830	START LOG	
+Event log	19_34_10.820	Start or Revert Sequence	
+Event log	19_35_05.893	STOP LOG	
+Event log	19_35_06.794	STOP DAQ	
+Event log	19_57_20.552	START DAQ	
+Event log	19_57_22.122	START LOG	
+Event log	19_57_35.812	START LOG	
+Event log	19_57_45.502	Start or Revert Sequence	
+Event log	19_58_25.375	Set	
+Event log	19_58_29.696	Start or Revert Sequence	
+Event log	19_58_32.302	Get Sequence 	
+Event log	19_58_34.333	Start or Revert Sequence	
+Event log	19_58_34.614	Start or Revert Sequence	
+Event log	19_59_01.599	Start or Revert Sequence	
+Event log	19_59_50.828	Set	
+Event log	19_59_56.265	STOP LOG	
+Event log	19_59_56.872	START LOG	
+Event log	19_59_58.615	Start or Revert Sequence	
+Event log	20_01_11.866	ABORT	
+Event log	20_01_13.109	ABORT	
+Event log	20_01_15.218	Start or Revert Sequence	
+Event log	20_01_18.742	STOP LOG	
+Event log	20_01_22.373	STOP DAQ	
+Event log	20_03_28.810	Connect RT	

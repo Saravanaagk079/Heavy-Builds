@@ -1,0 +1,2 @@
+CS Error	20_08_32.325	1055	Error 1055 Occurred at  Property Node in SeCrTs-Do State extracter.vi->SeCrTs Heavy Control Screen.vi
+CS Error	20_16_19.591	-314220	Error -314220 Occurred at  Read Single Element from Stream in SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi

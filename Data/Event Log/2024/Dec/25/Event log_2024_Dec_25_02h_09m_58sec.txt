@@ -1,0 +1,10 @@
+Event log	02_10_13.576	Connect RT	
+Event log	02_10_15.655	START DAQ	
+Event log	02_10_20.951	START LOG	
+Event log	02_10_32.088	Set	
+Event log	02_10_35.576	Pre readiness file	
+Event log	02_10_36.441	sequence readiness	
+Event log	02_10_42.139	Get Sequence 	
+Event log	02_10_47.603	STOP LOG	
+Event log	02_10_49.508	STOP DAQ	
+Event log	02_10_50.360	Connect RT	

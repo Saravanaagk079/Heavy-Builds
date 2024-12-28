@@ -1,0 +1,12 @@
+Event log	12_27_02.555	Connect RT	
+Event log	12_27_19.977	START DAQ	
+Event log	12_27_26.954	STOP DAQ	
+Event log	12_28_17.154	START DAQ	
+Event log	12_28_24.650	STOP DAQ	
+Event log	12_29_54.015	START DAQ	
+Event log	12_30_04.547	STOP DAQ	
+Event log	12_30_06.247	DAQ SETTING	
+Event log	12_30_50.692	START DAQ	
+Event log	12_31_36.635	STOP DAQ	
+Event log	12_31_37.621	DAQ SETTING	
+Event log	12_31_58.635	RT Stop	

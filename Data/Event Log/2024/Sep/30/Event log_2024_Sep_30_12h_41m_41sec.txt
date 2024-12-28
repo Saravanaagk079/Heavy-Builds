@@ -1,0 +1,11 @@
+Event log	12_41_54.763	Connect RT	
+Event log	12_42_00.024	Enable/Disable IP	
+Event log	12_42_07.728	IP ADDRESS	
+Event log	12_42_07.956	Connect RT	
+Event log	12_42_10.100	START DAQ	
+Event log	12_42_12.829	STOP DAQ	
+Event log	12_42_17.789	START DAQ	
+Event log	12_42_44.521	START LOG	
+Event log	12_47_15.354	STOP LOG	
+Event log	12_47_17.536	STOP DAQ	
+Event log	12_47_19.431	RT Stop	

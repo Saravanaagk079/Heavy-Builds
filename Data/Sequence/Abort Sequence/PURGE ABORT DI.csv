@@ -1,0 +1,20 @@
+Sequence,Intermediate Abort ,,Safety Abort,,Other,,,,,,
+,Sequence Name: AB1,,,,,,,,,,
+,No.of Sensors: 0,,,No.of Valves: 5,,,,,,,
+Sr. No.,Time CDT(ms),Component ID,Data Type,Condition,Range/Position,No of Samples for Pass,Event Duration(ms),Continuous /Cumulative,Expected Delay(ms),Failure Case Sequence,Current Sequence
+1,,C_EPV_125,DO,,Close,,,,125,,PURGE ABORT DI
+2,,C_EPV_125,DO,,Open,,,,125,,PURGE ABORT DI
+3,,C_EPV_125,DO,,Close,,,,125,,PURGE ABORT DI
+4,,C_EPV_125,DO,,Open,,,,125,,PURGE ABORT DI
+5,,C_EPV_125,DO,,Close,,,,125,,PURGE ABORT DI
+6,,C_EPV_125,DO,,Open,,,,125,,PURGE ABORT DI
+7,,C_EPV_125,DO,,Close,,,,125,,PURGE ABORT DI
+8,,C_EPV_125,DO,,Open,,,,125,,PURGE ABORT DI
+9,,C_EPV_125,DO,,Close,,,,125,,PURGE ABORT DI
+10,,C_EPV_125,DO,,Open,,,,125,,PURGE ABORT DI
+11,,C_EPV_125,DO,,Close,,,,125,,PURGE ABORT DI
+12,,C_EPV_125,DO,,Open,,,,125,,PURGE ABORT DI
+13,,C_EPV_125,DO,,Close,,,,125,,PURGE ABORT DI
+14,,C_EPV_125,DO,,Open,,,,125,,PURGE ABORT DI
+15,,C_EPV_125,DO,,Close,,,,125,,PURGE ABORT DI
+16,,C_EPV_125,DO,,Open,,,,125,,PURGE ABORT DI

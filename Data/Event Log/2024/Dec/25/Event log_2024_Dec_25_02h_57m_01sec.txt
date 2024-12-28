@@ -1,0 +1,70 @@
+Event log	02_57_17.088	Connect RT	
+Event log	02_57_19.036	START DAQ	
+Event log	02_57_21.807	START LOG	
+Event log	02_57_39.841	Set	
+Event log	02_57_52.557	Pre readiness file	
+Event log	02_57_53.467	sequence readiness	
+Event log	02_57_55.885	Set	
+Event log	02_58_00.544	Get Sequence 	
+Event log	02_58_03.177	Start or Revert Sequence	
+Event log	03_01_13.555	Start or Revert Sequence	
+Event log	03_01_24.878	Set	
+Event log	03_01_32.779	Set	
+Event log	03_01_35.109	Get Sequence 	
+Event log	03_01_38.041	Start or Revert Sequence	
+Event log	03_02_46.971	Safe State	
+Event log	03_02_49.060	Start or Revert Sequence	
+Event log	03_03_03.339	Set	
+Event log	03_03_06.305	Start or Revert Sequence	
+Event log	03_07_21.752	Start or Revert Sequence	
+Event log	03_07_30.893	Set	
+Event log	03_07_40.093	Set	
+Event log	03_07_41.529	Start or Revert Sequence	
+Event log	03_15_47.804	STOP LOG	
+Event log	03_15_48.771	STOP DAQ	
+Event log	03_15_50.598	Connect RT	
+Event log	03_17_00.893	Connect RT	
+Event log	03_17_02.706	START DAQ	
+Event log	03_17_04.100	START LOG	
+Event log	03_17_11.477	Safe State	
+Event log	03_17_12.351	Safe State	
+Event log	03_17_12.913	Safe State	
+Event log	03_17_14.501	Start or Revert Sequence	
+Event log	03_17_33.729	Set	
+Event log	03_17_37.583	sequence readiness	
+Event log	03_17_39.858	Get Sequence 	
+Event log	03_17_42.569	Start or Revert Sequence	
+Event log	03_19_51.148	Connect RT	
+Event log	03_19_52.490	STOP LOG	
+Event log	03_19_53.689	STOP DAQ	
+Event log	03_21_10.212	Connect RT	
+Event log	03_21_12.564	START DAQ	
+Event log	03_21_14.859	START LOG	
+Event log	03_21_17.687	Start or Revert Sequence	
+Event log	03_21_19.609	sequence readiness	
+Event log	03_21_22.639	Spark plug	
+Event log	03_21_25.346	sequence readiness	
+Event log	03_21_28.938	Safe State	
+Event log	03_21_32.188	sequence readiness	
+Event log	03_21_34.762	Get Sequence 	
+Event log	03_21_41.147	Get Sequence 	
+Event log	03_21_51.249	Set	
+Event log	03_21_53.297	Start or Revert Sequence	
+Event log	03_23_00.976	Start or Revert Sequence	
+Event log	03_23_02.474	STOP LOG	
+Event log	03_23_03.860	STOP DAQ	
+Event log	03_23_05.245	Connect RT	
+Event log	03_24_21.912	Connect RT	
+Event log	03_24_27.558	START DAQ	
+Event log	03_24_29.104	START LOG	
+Event log	03_24_32.952	sequence readiness	
+Event log	03_24_35.971	Get Sequence 	
+Event log	03_24_50.356	Set	
+Event log	03_25_01.594	Set	
+Event log	03_25_03.137	Start or Revert Sequence	
+Event log	03_32_31.394	Start or Revert Sequence	
+Event log	03_33_30.835	Start or Revert Sequence	
+Event log	03_35_18.579	Start or Revert Sequence	
+Event log	03_35_20.212	STOP LOG	
+Event log	03_35_21.167	STOP DAQ	
+Event log	03_35_21.905	Connect RT	

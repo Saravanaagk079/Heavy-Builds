@@ -1,0 +1,4 @@
+Event log	19_35_52.026	Connect RT	
+Event log	19_35_54.945	START DAQ	
+Event log	19_37_38.487	STOP DAQ	
+Event log	19_37_40.326	RT Stop	

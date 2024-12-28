@@ -1,0 +1,11 @@
+Event log	16_39_52.989	Enable/Disable IP	
+Event log	16_39_58.877	IP ADDRESS	
+Event log	16_39_58.879	Enable/Disable IP	
+Event log	16_39_59.857	Connect RT	
+Event log	16_40_10.257	START DAQ	
+Event log	16_42_50.387	START LOG	
+Event log	16_42_58.443	Log option	
+Event log	16_43_00.482	START LOG	
+Event log	16_43_26.908	STOP LOG	
+Event log	16_45_01.875	STOP DAQ	
+Event log	16_45_03.925	RT Stop	

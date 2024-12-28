@@ -1,0 +1,12 @@
+Event log	10_56_12.274	Log option	
+Event log	10_56_13.946	Connect RT	
+Event log	10_56_14.973	START DAQ	
+Event log	10_56_23.127	START DAQ	
+Event log	10_56_24.464	START LOG	
+Event log	10_56_28.459	STOP LOG	
+Event log	10_56_29.826	Log option	
+Event log	10_56_31.668	START LOG	
+Event log	10_56_36.060	STOP LOG	
+Event log	10_56_40.795	Log option	
+Event log	10_56_41.018	START LOG	
+Event log	10_56_46.337	STOP LOG	

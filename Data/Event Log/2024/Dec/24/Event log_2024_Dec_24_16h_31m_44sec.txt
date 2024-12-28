@@ -1,0 +1,19 @@
+Event log	16_31_59.156	Connect RT	
+Event log	16_32_01.483	START DAQ	
+Event log	16_32_04.138	START LOG	
+Event log	16_32_17.176	Set	
+Event log	16_32_27.014	Get Sequence 	
+Event log	16_34_54.207	Get Sequence 	
+Event log	16_35_16.063	Set	
+Event log	16_35_21.936	Set	
+Event log	16_35_28.576	Set	
+Event log	16_35_38.144	Set	
+Event log	16_35_40.577	Set	
+Event log	16_35_41.357	Set	
+Event log	16_35_41.512	Set	
+Event log	16_35_41.727	Set	
+Event log	16_35_47.771	Set	
+Event log	16_35_56.990	Set	
+Event log	16_36_33.126	STOP LOG	
+Event log	16_36_33.925	STOP DAQ	
+Event log	16_36_34.938	Connect RT	

@@ -1,0 +1,74 @@
+Event log	19_34_13.479	Hold CDT	
+Event log	19_34_22.754	Connect RT	
+Event log	19_34_24.912	START DAQ	
+Event log	19_34_27.883	START LOG	
+Event log	19_34_41.911	Get Sequence 	
+Event log	19_34_53.669	Set	
+Event log	19_34_55.153	Start or Revert Sequence	
+Event log	19_35_02.517	Hold CDT	
+Event log	19_35_12.545	Start or Revert Sequence	
+Event log	19_35_13.585	Hold CDT	
+Event log	19_35_13.596	Hold CDT	
+Event log	19_35_23.162	Set	
+Event log	19_35_26.053	Start or Revert Sequence	
+Event log	19_35_53.575	STOP LOG	
+Event log	19_35_54.403	ABORT	
+Event log	19_35_56.018	START LOG	
+Event log	19_35_58.919	ABORT	
+Event log	19_36_01.888	ABORT	
+Event log	19_36_03.492	ABORT	
+Event log	19_36_04.650	ABORT	
+Event log	19_36_05.864	ABORT	
+Event log	19_36_07.145	ABORT	
+Event log	19_36_08.351	ABORT	
+Event log	19_36_09.085	ABORT	
+Event log	19_36_09.561	ABORT	
+Event log	19_36_10.794	ABORT	
+Event log	19_36_11.941	ABORT	
+Event log	19_36_13.192	ABORT	
+Event log	19_36_15.203	ABORT	
+Event log	19_36_24.616	Start or Revert Sequence	
+Event log	19_36_25.522	Set	
+Event log	19_36_26.740	Get Sequence 	
+Event log	19_36_28.702	Start or Revert Sequence	
+Event log	19_36_35.066	Hold CDT	
+Event log	19_36_35.074	Hold CDT	
+Event log	19_36_56.790	Set	
+Event log	19_36_57.670	Start or Revert Sequence	
+Event log	19_36_59.836	Start or Revert Sequence	
+Event log	19_37_09.941	Start or Revert Sequence	
+Event log	19_37_10.744	ABORT	
+Event log	19_37_12.757	ABORT	
+Event log	19_37_21.851	Set	
+Event log	19_37_23.701	Start or Revert Sequence	
+Event log	19_37_27.509	Hold CDT	
+Event log	19_37_27.514	Hold CDT	
+Event log	19_38_09.806	Start or Revert Sequence	
+Event log	19_38_14.793	Set	
+Event log	19_39_07.494	Set	
+Event log	19_39_08.761	Start or Revert Sequence	
+Event log	19_39_15.106	Hold CDT	
+Event log	19_39_15.114	Hold CDT	
+Event log	19_39_56.781	Start or Revert Sequence	
+Event log	19_40_09.689	Set	
+Event log	19_40_10.732	Start or Revert Sequence	
+Event log	19_40_15.257	Hold CDT	
+Event log	19_40_22.542	Hold CDT	
+Event log	19_40_22.565	Hold CDT	
+Event log	19_40_26.864	Start or Revert Sequence	
+Event log	19_40_35.632	Set	
+Event log	19_40_38.519	ABORT	
+Event log	19_40_39.596	Start or Revert Sequence	
+Event log	19_41_01.500	Hold CDT	
+Event log	19_41_06.420	Hold CDT	
+Event log	19_41_07.604	Hold CDT	
+Event log	19_41_08.160	Hold CDT	
+Event log	19_41_08.684	Hold CDT	
+Event log	19_41_09.139	Hold CDT	
+Event log	19_41_12.413	Hold CDT	
+Event log	19_41_16.001	Hold CDT	
+Event log	19_41_18.548	Start or Revert Sequence	
+Event log	19_41_19.449	ABORT	
+Event log	19_41_19.848	STOP LOG	
+Event log	19_41_20.389	STOP DAQ	
+Event log	19_41_20.928	Connect RT	

@@ -1,0 +1,10 @@
+RT Error	17_17_04.182		
+RT Error	17_18_20.453	-200279	Error -200279 Occurred at  SeCrTs-AI_Read.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_C
+RT Error	17_18_20.466		

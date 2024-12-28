@@ -1,0 +1,47 @@
+Event log	11_05_46.434	Enable/Disable IP	
+Event log	11_05_50.461	Enable/Disable IP	
+Event log	11_05_50.862	Enable/Disable IP	
+Event log	11_05_58.522	IP ADDRESS	
+Event log	11_05_58.530	Enable/Disable IP	
+Event log	11_06_00.093	Connect RT	
+Event log	11_06_03.284	START DAQ	
+Event log	11_06_10.844	START DAQ	
+Event log	11_06_50.557	Log option	
+Event log	11_06_55.348	START LOG	
+Event log	11_07_04.211	C_EPV_78	
+Event log	11_07_05.360	C_EPV_78	
+Event log	11_07_06.369	C_EPV_78	
+Event log	11_07_06.596	C_EPV_78	
+Event log	11_07_06.781	C_EPV_78	
+Event log	11_07_06.979	C_EPV_78	
+Event log	11_07_07.198	C_EPV_78	
+Event log	11_07_07.368	C_EPV_78	
+Event log	11_07_47.845	C_EPV_75	
+Event log	11_07_49.053	C_EPV_75	
+Event log	11_07_50.301	C_EPV_75	
+Event log	11_07_51.665	C_EPV_75	
+Event log	11_07_53.175	C_EPV_75	
+Event log	11_07_54.678	C_EPV_75	
+Event log	11_07_56.559	N_EPV_138	
+Event log	11_07_57.599	N_EPV_138	
+Event log	11_07_58.114	N_EPV_138	
+Event log	11_07_58.325	N_EPV_138	
+Event log	11_07_58.539	N_EPV_138	
+Event log	11_07_58.738	N_EPV_138	
+Event log	11_07_59.320	N_EPV_138	
+Event log	11_07_59.823	N_EPV_138	
+Event log	11_08_01.925	F_EPV_45	
+Event log	11_08_02.562	F_EPV_45	
+Event log	11_08_03.254	F_EPV_45	
+Event log	11_08_03.855	F_EPV_45	
+Event log	11_08_04.589	F_EPV_45	
+Event log	11_08_05.332	F_EPV_45	
+Event log	11_08_06.694	F_EPV_45	
+Event log	11_08_23.964	M_EPV_90	
+Event log	11_08_27.468	F_EPV_38	
+Event log	11_08_34.208	M_EPV_90	
+Event log	11_08_35.483	F_EPV_45	
+Event log	11_08_37.085	F_EPV_38	
+Event log	11_13_54.865	STOP LOG	
+Event log	11_13_56.070	STOP DAQ	
+Event log	11_13_59.018	RT Stop	

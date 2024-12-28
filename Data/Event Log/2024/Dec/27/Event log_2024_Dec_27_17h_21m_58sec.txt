@@ -1,0 +1,16 @@
+Event log	17_22_07.514	Connect RT	
+Event log	17_22_34.655	START DAQ	
+Event log	17_23_24.998	START LOG	
+Event log	17_27_48.068	N_EPV_138	
+Event log	17_27_52.142	N_EPV_185	
+Event log	17_29_07.660	STOP LOG	
+Event log	17_29_21.149	START LOG	
+Event log	17_56_29.610	Gate driver- LOX	
+Event log	17_56_42.799	MCU Reset -LOX	
+Event log	17_56_50.606	Gate driver- LOX	
+Event log	17_56_57.430	C&I L	
+Event log	17_57_35.006	DAQ SETTING	
+Event log	17_58_06.867	C&I L	
+Event log	17_58_08.326	STOP LOG	
+Event log	17_58_09.661	STOP DAQ	
+Event log	17_58_11.057	Connect RT	

@@ -1,0 +1,16 @@
+RT Error	16_36_07.576		
+RT Error	16_36_09.616	-89125	Error -89125 Occurred at  DAQmx Start Task.vi:7220003<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC
+RT Error	16_36_09.635		
+RT Error	16_54_36.093	-314220	Error -314220 Occurred at  Write Single Element to Stream in SeCrTs-Data Transfer Loop RD.vi->SeCrTs-RT_Main.vi
+RT Error	16_54_36.112		
+RT Error	16_54_39.802	-1950678941	Error -1950678941 Occurred at  Property Node in SeCrTs-Datalog Redundant NS creater.vi->SeCrTs-Data Transfer Loop DD.vi->SeCrTs-RT_Main.vi
+RT Error	16_54_39.824		
+RT Error	16_54_40.253	-89125	Error -89125 Occurred at  SeCrTs-TC_Read.vi<append>
+<B>Source Device: </B>PXI1Slot7
+<B>Destination Device: </B>PXI1Slot17
+
+<B>Task Name: </B>TC

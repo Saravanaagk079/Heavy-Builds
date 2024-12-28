@@ -1,0 +1,81 @@
+Event log	19_41_48.639	Connect RT	
+Event log	19_41_53.978	START DAQ	
+Event log	19_41_56.286	START LOG	
+Event log	19_42_06.723	Set	
+Event log	19_42_09.074	Set	
+Event log	19_42_13.949	Start or Revert Sequence	
+Event log	19_42_14.987	Set	
+Event log	19_42_15.558	Set	
+Event log	19_42_15.744	Set	
+Event log	19_42_22.021	Set	
+Event log	19_42_22.480	Set	
+Event log	19_42_22.663	Set	
+Event log	19_42_22.843	Set	
+Event log	19_42_23.026	Set	
+Event log	19_42_23.225	Set	
+Event log	19_42_24.519	Set	
+Event log	19_42_24.684	Set	
+Event log	19_42_24.880	Set	
+Event log	19_42_25.338	Hold CDT	
+Event log	19_42_25.618	Hold CDT	
+Event log	19_42_26.452	Set	
+Event log	19_42_26.841	Set	
+Event log	19_42_27.027	Set	
+Event log	19_42_27.307	Set	
+Event log	19_42_27.509	Set	
+Event log	19_42_27.695	Set	
+Event log	19_42_27.883	Set	
+Event log	19_42_28.091	Set	
+Event log	19_42_28.322	Set	
+Event log	19_42_28.613	Set	
+Event log	19_42_30.286	Set	
+Event log	19_42_30.510	Set	
+Event log	19_42_30.696	Set	
+Event log	19_42_30.882	Set	
+Event log	19_42_31.048	Set	
+Event log	19_42_31.220	Set	
+Event log	19_42_31.388	Set	
+Event log	19_42_31.602	Set	
+Event log	19_42_31.842	Set	
+Event log	19_42_35.634	Hold CDT	
+Event log	19_42_35.852	Hold CDT	
+Event log	19_42_36.762	Set	
+Event log	19_42_36.966	Set	
+Event log	19_42_37.145	Set	
+Event log	19_42_37.313	Set	
+Event log	19_42_37.497	Set	
+Event log	19_42_37.684	Set	
+Event log	19_42_49.371	Hold CDT	
+Event log	19_42_50.126	Hold CDT	
+Event log	19_42_55.384	Hold CDT	
+Event log	19_42_55.607	Hold CDT	
+Event log	19_42_55.817	Hold CDT	
+Event log	19_42_56.004	Hold CDT	
+Event log	19_42_56.176	Hold CDT	
+Event log	19_42_56.346	Hold CDT	
+Event log	19_42_56.515	Hold CDT	
+Event log	19_42_56.706	Hold CDT	
+Event log	19_42_56.906	Hold CDT	
+Event log	19_42_57.100	Hold CDT	
+Event log	19_42_57.312	Hold CDT	
+Event log	19_42_57.520	Hold CDT	
+Event log	19_42_57.759	Hold CDT	
+Event log	19_42_58.218	Hold CDT	
+Event log	19_42_58.468	Hold CDT	
+Event log	19_42_58.692	Hold CDT	
+Event log	19_42_58.882	Hold CDT	
+Event log	19_43_00.586	Hold CDT	
+Event log	19_43_11.271	Hold CDT	
+Event log	19_43_11.926	Hold CDT	
+Event log	19_43_12.597	Hold CDT	
+Event log	19_43_13.143	Hold CDT	
+Event log	19_43_17.005	Hold CDT	
+Event log	19_43_17.786	Hold CDT	
+Event log	19_43_18.408	Hold CDT	
+Event log	19_43_19.078	Hold CDT	
+Event log	19_43_19.649	Hold CDT	
+Event log	19_43_20.095	Hold CDT	
+Event log	19_43_20.510	Hold CDT	
+Event log	19_43_21.544	STOP LOG	
+Event log	19_43_22.007	STOP DAQ	
+Event log	19_43_22.479	Connect RT	

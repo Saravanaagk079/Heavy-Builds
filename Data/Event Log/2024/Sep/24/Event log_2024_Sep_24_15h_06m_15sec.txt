@@ -1,0 +1,15 @@
+Event log	15_06_25.189	Log type	
+Event log	15_06_26.975	Log type	
+Event log	15_06_28.820	Connect RT	
+Event log	15_06_29.760	START DAQ	
+Event log	15_06_35.958	START DAQ	
+Event log	15_06_37.569	START LOG	
+Event log	15_06_40.196	STOP LOG	
+Event log	15_06_43.314	START LOG	
+Event log	15_06_44.730	STOP LOG	
+Event log	15_06_46.403	START LOG	
+Event log	15_06_48.739	STOP LOG	
+Event log	15_06_57.650	Log type	
+Event log	15_06_58.218	Log type	
+Event log	15_06_58.554	Log type	
+Event log	15_06_58.755	Log type	

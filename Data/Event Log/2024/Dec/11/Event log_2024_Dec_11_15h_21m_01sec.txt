@@ -1,0 +1,172 @@
+Event log	15_21_12.949	Connect RT	
+Event log	15_21_15.316	START DAQ	
+Event log	15_22_37.122	START DAQ	
+Event log	15_24_20.764	START LOG	
+Event log	15_24_32.978	STOP LOG	
+Event log	15_24_43.100	START LOG	
+Event log	15_24_55.776	Set	
+Event log	15_25_05.514	Get Sequence 	
+Event log	15_25_09.601	Start or Revert Sequence	
+Event log	15_26_10.835	Start or Revert Sequence	
+Event log	15_26_19.188	Set	
+Event log	15_26_20.935	Start or Revert Sequence	
+Event log	15_26_52.029	Start or Revert Sequence	
+Event log	15_26_55.531	STOP LOG	
+Event log	15_27_33.298	START LOG	
+Event log	15_27_41.607	Set	
+Event log	15_27_42.869	Start or Revert Sequence	
+Event log	15_28_34.005	STOP LOG	
+Event log	15_28_38.282	START LOG	
+Event log	15_28_41.196	ABORT	
+Event log	15_28_50.333	ABORT	
+Event log	15_28_51.324	START LOG	
+Event log	15_28_53.594	ABORT	
+Event log	15_28_58.749	ABORT	
+Event log	15_29_00.026	ABORT	
+Event log	15_29_00.668	ABORT	
+Event log	15_29_01.100	ABORT	
+Event log	15_29_01.330	ABORT	
+Event log	15_29_01.526	ABORT	
+Event log	15_29_01.723	ABORT	
+Event log	15_29_01.906	ABORT	
+Event log	15_29_02.105	ABORT	
+Event log	15_29_02.309	ABORT	
+Event log	15_29_02.523	ABORT	
+Event log	15_29_02.727	ABORT	
+Event log	15_29_02.957	ABORT	
+Event log	15_29_03.194	ABORT	
+Event log	15_29_05.011	Start or Revert Sequence	
+Event log	15_29_07.833	STOP LOG	
+Event log	15_29_18.298	STOP DAQ	
+Event log	15_29_18.788	Connect RT	
+Event log	15_30_15.483	ABORT	
+Event log	15_30_16.963	Connect RT	
+Event log	15_30_18.554	START DAQ	
+Event log	15_30_22.595	START LOG	
+Event log	15_30_27.987	STOP LOG	
+Event log	15_31_40.826	START LOG	
+Event log	15_31_54.721	Start or Revert Sequence	
+Event log	15_31_58.097	Set	
+Event log	15_32_06.217	Set	
+Event log	15_32_07.331	Start or Revert Sequence	
+Event log	15_32_08.360	Get Sequence 	
+Event log	15_32_10.536	Start or Revert Sequence	
+Event log	15_32_32.239	Start or Revert Sequence	
+Event log	15_32_40.070	Set	
+Event log	15_32_44.771	ABORT	
+Event log	15_32_45.316	STOP LOG	
+Event log	15_32_48.410	START LOG	
+Event log	15_32_50.800	Start or Revert Sequence	
+Event log	15_33_33.273	Start or Revert Sequence	
+Event log	15_33_35.358	ABORT	
+Event log	15_33_36.185	STOP LOG	
+Event log	15_33_42.404	START LOG	
+Event log	15_33_50.919	Set	
+Event log	15_33_53.141	Start or Revert Sequence	
+Event log	15_34_35.100	Start or Revert Sequence	
+Event log	15_34_36.071	ABORT	
+Event log	15_34_36.706	STOP LOG	
+Event log	15_34_40.491	START LOG	
+Event log	15_34_47.402	Set	
+Event log	15_34_50.468	Start or Revert Sequence	
+Event log	15_35_40.185	Start or Revert Sequence	
+Event log	15_35_41.626	ABORT	
+Event log	15_35_42.221	STOP LOG	
+Event log	15_38_05.763	START LOG	
+Event log	15_38_18.355	Set	
+Event log	15_38_25.652	Start or Revert Sequence	
+Event log	15_39_39.016	Start or Revert Sequence	
+Event log	15_39_40.050	STOP LOG	
+Event log	15_39_56.360	START LOG	
+Event log	15_40_10.269	Set	
+Event log	15_40_15.996	Get Sequence 	
+Event log	15_40_17.769	Start or Revert Sequence	
+Event log	15_40_52.716	Start or Revert Sequence	
+Event log	15_41_04.567	Hold CDT	
+Event log	15_41_05.323	ABORT	
+Event log	15_41_05.796	STOP LOG	
+Event log	15_51_08.493	ABORT	
+Event log	16_08_38.240	STOP DAQ	
+Event log	16_08_40.229	START DAQ	
+Event log	16_08_43.971	START LOG	
+Event log	16_09_12.465	Get Sequence 	
+Event log	16_09_41.246	Set	
+Event log	16_10_00.296	Start or Revert Sequence	
+Event log	16_11_07.667	Hold CDT	
+Event log	16_11_08.539	Start or Revert Sequence	
+Event log	16_11_18.675	STOP LOG	
+Event log	16_11_22.340	START LOG	
+Event log	16_11_25.362	Set	
+Event log	16_11_27.235	Start or Revert Sequence	
+Event log	16_11_33.268	ABORT	
+Event log	16_11_35.279	ABORT	
+Event log	16_12_19.973	Start or Revert Sequence	
+Event log	16_12_21.003	Hold CDT	
+Event log	16_12_22.351	STOP LOG	
+Event log	16_12_25.440	START LOG	
+Event log	16_12_30.874	Set	
+Event log	16_12_31.889	Start or Revert Sequence	
+Event log	16_12_59.708	Start or Revert Sequence	
+Event log	16_13_00.364	STOP LOG	
+Event log	16_17_53.392	STOP DAQ	
+Event log	16_17_55.473	Connect RT	
+Event log	16_19_56.769	Connect RT	
+Event log	16_19_58.673	START DAQ	
+Event log	16_20_00.581	START LOG	
+Event log	16_20_13.915	STOP DAQ	
+Event log	16_20_14.442	Connect RT	
+Event log	16_21_18.578	Connect RT	
+Event log	16_21_20.156	START DAQ	
+Event log	16_21_37.071	START LOG	
+Event log	16_21_45.291	STOP LOG	
+Event log	16_21_45.764	START LOG	
+Event log	16_21_47.573	Hold CDT	
+Event log	16_21_55.907	Set	
+Event log	16_21_59.382	Get Sequence 	
+Event log	16_22_01.233	Start or Revert Sequence	
+Event log	16_22_52.612	Start or Revert Sequence	
+Event log	16_22_53.317	Hold CDT	
+Event log	16_22_54.769	STOP LOG	
+Event log	16_27_52.881	START LOG	
+Event log	16_28_06.367	Set	
+Event log	16_28_08.689	Start or Revert Sequence	
+Event log	16_28_51.422	Start or Revert Sequence	
+Event log	16_28_52.694	Hold CDT	
+Event log	16_28_53.559	STOP LOG	
+Event log	16_35_18.975	START LOG	
+Event log	16_35_25.504	Get Sequence 	
+Event log	16_35_36.797	Set	
+Event log	16_35_39.900	Get Sequence 	
+Event log	16_35_42.951	Start or Revert Sequence	
+Event log	16_35_53.747	Start or Revert Sequence	
+Event log	16_35_55.194	STOP LOG	
+Event log	16_35_59.052	START LOG	
+Event log	16_36_01.224	Hold CDT	
+Event log	16_36_09.156	Set	
+Event log	16_36_12.630	Start or Revert Sequence	
+Event log	16_49_48.013	Start or Revert Sequence	
+Event log	16_49_48.468	Hold CDT	
+Event log	16_49_55.745	C_EPV_14	
+Event log	16_49_56.642	C_EPV_14	
+Event log	16_49_58.202	ABORT	
+Event log	16_50_02.958	C_EPV_75	
+Event log	16_50_03.969	C_EPV_75	
+Event log	16_50_04.873	C_EPV_75	
+Event log	16_50_06.173	C_EPV_75	
+Event log	16_50_07.125	C_EPV_75	
+Event log	16_50_12.681	C_EPV_75	
+Event log	16_50_13.466	C_EPV_75	
+Event log	16_50_14.341	C_EPV_75	
+Event log	16_50_14.992	C_EPV_75	
+Event log	16_50_15.792	C_EPV_75	
+Event log	16_50_16.471	C_EPV_75	
+Event log	16_50_18.785	C_EPV_78	
+Event log	16_50_19.465	C_EPV_78	
+Event log	16_50_20.512	C_EPV_78	
+Event log	16_50_21.166	C_EPV_78	
+Event log	16_50_22.249	C_EPV_75	
+Event log	16_50_24.778	C_EPV_78	
+Event log	16_50_25.581	C_EPV_78	
+Event log	16_51_33.490	STOP LOG	
+Event log	16_51_34.081	STOP DAQ	
+Event log	16_51_34.542	Connect RT	

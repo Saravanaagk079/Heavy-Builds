@@ -1,0 +1,4 @@
+Event log	17_14_24.674	Connect RT	
+Event log	17_14_26.237	Connect RT	
+Event log	17_14_39.647	Connect RT	
+Event log	17_14_41.836	START DAQ	

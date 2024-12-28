@@ -1,0 +1,82 @@
+Event log	11_16_09.047	Enable/Disable IP	
+Event log	11_16_16.437	IP ADDRESS	
+Event log	11_16_16.442	Enable/Disable IP	
+Event log	11_16_19.494	Connect RT	
+Event log	11_16_20.865	START DAQ	
+Event log	11_16_27.265	START DAQ	
+Event log	11_16_43.833	START LOG	
+Event log	11_16_50.106	STOP LOG	
+Event log	11_16_55.533	Log option	
+Event log	11_16_55.776	START LOG	
+Event log	11_17_39.189	STOP LOG	
+Event log	11_17_44.152	START LOG	
+Event log	11_18_30.106	STOP LOG	
+Event log	11_18_42.343	START LOG	
+Event log	11_18_53.109	STOP LOG	
+Event log	11_19_21.927	START LOG	
+Event log	11_19_49.802	STOP LOG	
+Event log	11_19_51.694	START LOG	
+Event log	11_21_23.320	STOP LOG	
+Event log	11_21_24.965	START LOG	
+Event log	11_21_29.449	STOP LOG	
+Event log	11_21_32.243	START LOG	
+Event log	11_21_53.101	STOP LOG	
+Event log	11_21_55.330	START LOG	
+Event log	11_22_17.685	STOP LOG	
+Event log	11_22_25.299	START LOG	
+Event log	11_22_34.681	N_EPV_109	
+Event log	11_22_35.945	N_EPV_109	
+Event log	11_22_36.776	N_EPV_109	
+Event log	11_22_37.741	N_EPV_109	
+Event log	11_22_38.294	N_EPV_109	
+Event log	11_22_39.112	N_EPV_109	
+Event log	11_22_39.723	N_EPV_109	
+Event log	11_22_40.312	N_EPV_109	
+Event log	11_22_41.124	N_EPV_109	
+Event log	11_22_42.098	N_EPV_109	
+Event log	11_22_42.878	N_EPV_109	
+Event log	11_22_44.275	N_EPV_109	
+Event log	11_22_44.908	N_EPV_109	
+Event log	11_22_46.190	N_EPV_109	
+Event log	11_22_46.927	N_EPV_109	
+Event log	11_22_47.999	N_EPV_109	
+Event log	11_22_48.858	N_EPV_109	
+Event log	11_22_52.550	N_EPV_109	
+Event log	11_22_53.234	N_EPV_109	
+Event log	11_22_54.051	N_EPV_109	
+Event log	11_22_54.711	N_EPV_109	
+Event log	11_22_55.230	N_EPV_109	
+Event log	11_22_57.883	N_EPV_109	
+Event log	11_23_00.089	N_EPV_109	
+Event log	11_24_39.854	STOP LOG	
+Event log	11_36_23.383	START LOG	
+Event log	11_38_26.782	STOP LOG	
+Event log	11_41_21.137	START LOG	
+Event log	11_43_39.599	STOP LOG	
+Event log	11_43_48.615	START LOG	
+Event log	11_44_03.960	C_EPV_78	
+Event log	11_44_04.790	C_EPV_75	
+Event log	11_44_05.603	C_EPV_78	
+Event log	11_44_06.392	C_EPV_75	
+Event log	11_44_57.496	C_EPV_75	
+Event log	11_44_58.353	C_EPV_75	
+Event log	11_44_59.116	C_EPV_75	
+Event log	11_44_59.809	C_EPV_75	
+Event log	11_45_00.379	C_EPV_75	
+Event log	11_45_01.252	C_EPV_75	
+Event log	11_45_01.753	C_EPV_75	
+Event log	11_45_02.390	C_EPV_75	
+Event log	11_45_03.115	C_EPV_75	
+Event log	11_45_03.996	C_EPV_75	
+Event log	11_48_29.011	STOP LOG	
+Event log	11_51_17.964	START LOG	
+Event log	11_54_36.110	C_EPV_78	
+Event log	11_54_36.918	C_EPV_78	
+Event log	11_54_37.489	C_EPV_78	
+Event log	11_54_37.888	C_EPV_78	
+Event log	11_55_13.968	STOP LOG	
+Event log	11_58_03.696	STOP DAQ	
+Event log	11_58_07.219	DAQ SETTING	
+Event log	12_13_27.771	START DAQ	
+Event log	12_13_38.181	STOP DAQ	
+Event log	12_13_40.430	RT Stop	

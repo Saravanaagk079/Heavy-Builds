@@ -1,0 +1,3 @@
+CS Error	17_13_31.379	-1950678941	Error -1950678941 Occurred at  Read Single Element from Stream in SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi
+CS Error	17_13_57.592	-314101	Error -314101 Occurred at  Create Network Stream Reader Endpoint in SeCrTs-NS Main.vi->SeCrTs Heavy Control Screen.vi
+CS Error	17_13_57.592	-1950678941	Error -1950678941 Occurred at  Read Single Element from Stream in SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi

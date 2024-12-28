@@ -1,0 +1,2 @@
+CS Error	18_48_54.023	-314220	Error -314220 Occurred at  Read Single Element from Stream in SeCrTs - NS Reader State machine.vi->SeCrTs Heavy Control Screen.vi
+CS Error	19_15_11.798	1122	Error 1122 Occurred at  Wait on Notification in SeCrTs Heavy Control Screen.vi

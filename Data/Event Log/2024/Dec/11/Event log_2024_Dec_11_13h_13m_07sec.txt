@@ -1,0 +1,19 @@
+Event log	13_13_16.160	Connect RT	
+Event log	13_13_17.350	START DAQ	
+Event log	13_13_21.976	START DAQ	
+Event log	13_13_24.890	START LOG	
+Event log	13_13_34.722	Get Sequence 	
+Event log	13_13_48.056	Set	
+Event log	13_13_49.676	Start or Revert Sequence	
+Event log	13_15_00.924	Start or Revert Sequence	
+Event log	13_15_07.785	Set	
+Event log	13_15_09.383	Start or Revert Sequence	
+Event log	13_15_30.293	STOP LOG	
+Event log	13_15_30.832	ABORT	
+Event log	13_15_32.026	START LOG	
+Event log	13_15_35.224	Start or Revert Sequence	
+Event log	13_15_45.440	Set	
+Event log	13_15_47.082	Start or Revert Sequence	
+Event log	13_17_57.962	STOP LOG	
+Event log	13_17_58.520	STOP DAQ	
+Event log	13_17_59.124	Connect RT	

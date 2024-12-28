@@ -1,0 +1,6 @@
+Event log	19_21_44.755	Enable/Disable IP	
+Event log	19_21_55.658	IP ADDRESS	
+Event log	19_21_55.670	Enable/Disable IP	
+Event log	19_21_57.072	Connect RT	
+Event log	19_23_22.626	START DAQ	
+Event log	19_23_30.301	START DAQ	

@@ -1,0 +1,28 @@
+Event log	18_12_14.009	Connect RT	
+Event log	18_12_19.114	START DAQ	
+Event log	18_12_19.994	N_EPV_185	
+Event log	18_12_20.728	N_EPV_138	
+Event log	18_12_30.467	START LOG	
+Event log	18_13_07.831	Gate driver- LOX	
+Event log	18_13_13.734	C&I L	
+Event log	18_13_23.227	Gate driver ATF	
+Event log	18_13_29.103	C&I A	
+Event log	18_13_46.530	Gate driver ATF	
+Event log	18_13_53.714	Gate driver- LOX	
+Event log	18_14_01.452	C&I A	
+Event log	18_14_06.105	C&I L	
+Event log	18_15_53.645	Gate driver- LOX	
+Event log	18_16_20.018	Gate driver- LOX	
+Event log	18_16_32.349	C&I L	
+Event log	18_16_50.567	C&I L	
+Event log	18_17_15.916	Gate driver- LOX	
+Event log	18_17_23.780	C&I L	
+Event log	18_17_39.725	C&I L	
+Event log	18_17_45.991	Gate driver- LOX	
+Event log	18_18_15.160	Gate driver ATF	
+Event log	18_18_22.367	C&I A	
+Event log	18_18_31.989	Gate driver ATF	
+Event log	18_18_42.080	C&I A	
+Event log	18_52_14.512	STOP LOG	
+Event log	18_52_15.301	STOP DAQ	
+Event log	18_52_16.566	Connect RT	

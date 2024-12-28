@@ -1,0 +1,34 @@
+Event log	20_00_48.879	Enable/Disable IP	
+Event log	20_01_03.056	IP ADDRESS	
+Event log	20_01_03.063	Enable/Disable IP	
+Event log	20_01_04.289	Connect RT	
+Event log	20_01_06.368	START DAQ	
+Event log	20_01_13.617	START DAQ	
+Event log	20_01_24.191	START LOG	
+Event log	20_01_39.644	START LOG	
+Event log	20_02_11.025	STOP LOG	
+Event log	20_02_16.816	Log option	
+Event log	20_02_17.042	START LOG	
+Event log	20_02_28.658	C_EPV_78	
+Event log	20_02_30.920	C_EPV_75	
+Event log	20_02_32.972	C_EPV_78	
+Event log	20_02_35.172	C_EPV_75	
+Event log	20_02_42.319	C_EPV_75	
+Event log	20_02_44.190	C_EPV_75	
+Event log	20_02_49.435	C_EPV_75	
+Event log	20_02_51.745	C_EPV_75	
+Event log	20_02_53.140	C_EPV_75	
+Event log	20_02_55.054	C_EPV_75	
+Event log	20_02_56.411	C_EPV_75	
+Event log	20_02_58.392	C_EPV_75	
+Event log	20_03_00.281	C_EPV_75	
+Event log	20_03_02.208	C_EPV_75	
+Event log	20_03_06.871	C_EPV_78	
+Event log	20_03_08.032	C_EPV_78	
+Event log	20_03_17.408	C_EPV_75	
+Event log	20_03_18.112	N_EPV_113	
+Event log	20_03_18.754	N_EPV_8	
+Event log	20_03_19.826	C_EPV_8	
+Event log	20_05_01.722	STOP LOG	
+Event log	20_13_16.128	STOP DAQ	
+Event log	20_13_18.379	RT Stop	

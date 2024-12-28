@@ -1,0 +1,5 @@
+CS Error	12_48_36.232	1003	Error 1003 Occurred at  Invoke Node in SeCrTs-Call by reference.vi->SeCrTs Heavy Control Screen.vi
+<APPEND>
+Method Name: <b>Run VI</b>
+
+VI Path: <b>D:\SK Labview\GitHub\Retrofit-SeCrTs-Heavy-Software\SeCrTs Heavy\SeCrTS-Control screen\Source Code\Sub VI's\SeCrTs-Hardware Config.vi</b>
